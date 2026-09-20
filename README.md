@@ -180,19 +180,6 @@ CI/CD + Segurança + Observabilidade + Automação + colaboração.
 
 4.1 Alessandro Tavares Brandão
 
-GitHub: https://github.com/alessandro16014\
-LinkedIn: https://www.linkedin.com/in/alessandro-tavares-brandao/
-
-O GitHub apresentava 1 repositório público e 22 seguidores. O perfil
-demonstra formação em ADS, mas ainda possui pouco conteúdo técnico
-público voltado a DevSecOps. O próximo passo é publicar projetos com
-Cloud, Docker, Terraform, CI/CD e segurança. Os 22 seguidores ficam
-como referência inicial de evolução.
-
-Plano/PDI: em 6--12 meses, estudar Linux, redes, Cloud, Docker,
-Terraform e CI/CD; em 1--3 anos, buscar experiência em
-Cloud/DevOps/DevSecOps e Kubernetes; em 3--5 anos, consolidar atuação
-como DevSecOps Engineer.
 
 Feedback dos colegas:
 
