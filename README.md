@@ -42,14 +42,14 @@ reunir conhecimentos de Cloud Computing, desenvolvimento,
 infraestrutura, automação e cibersegurança, permitindo atuar em
 diferentes etapas do ciclo de vida de sistemas modernos.
 
-2. 📊 Mercado
+2. Mercado
 
 Em setembro de 2026, o LinkedIn apresentava 392 vagas relacionadas a
 DevSecOps no Brasil, incluindo diferentes níveis de experiência. As
 funções mais relacionadas são DevSecOps Engineer, DevOps Engineer,
 Cloud Engineer, Cloud Security Engineer e SRE.
 
-2.1 💰 Salários de DevSecOps por país
+2.1 Salários de DevSecOps por país
 
 Os valores abaixo consideram somente funções relacionadas diretamente
 a DevSecOps. A nomenclatura e a divisão por senioridade variam entre
@@ -118,7 +118,7 @@ havia dados públicos suficientemente consistentes por
 Júnior/Pleno/Sênior, foi mantida apenas a referência de DevSecOps
 Engineer, evitando estimativas sem base.
 
-3. 🔍 Vagas e Competências
+3. Vagas e Competências
 
 As vagas analisadas --- incluindo oportunidades da xTracky, Coupled
 Tecnologia e SHSquads --- mostram que DevSecOps exige uma combinação
@@ -176,7 +176,7 @@ problemas.
 Perfil buscado: Cloud + Linux + Docker + Terraform + Kubernetes +
 CI/CD + Segurança + Observabilidade + Automação + colaboração.
 
-4. 👥 Análises Individuais
+4. Análises Individuais
 
 4.1 Alessandro Tavares Brandão
 
@@ -388,21 +388,17 @@ https://www.glassdoor.com/Salaries/portugal-devsecops-engineer-salary-SRCH_IL.0%
 
 Alessandro Tavares Brandão --- GitHub:
 https://github.com/alessandro16014
-
 Alessandro Tavares Brandão --- LinkedIn:
 https://www.linkedin.com/in/alessandro-tavares-brandao/
 
 Julio Cesar Marques --- GitHub: https://github.com/Juliocesarmarq
-
 Julio Cesar Marques --- LinkedIn:
 https://www.linkedin.com/in/j%C3%BAliocesar1983/
 
 Pedro Gonçalves da Mota --- GitHub: https://github.com/PedroGMota
-
 Pedro Gonçalves da Mota --- LinkedIn:
 https://www.linkedin.com/in/pedro-goncalves-da-mota/
 
 Rúben Tavares Nascimento --- GitHub: https://github.com/rb0710
-
 Rúben Tavares Nascimento --- LinkedIn:
 https://www.linkedin.com/in/r%C3%BAben-tavares-b5b371260/
