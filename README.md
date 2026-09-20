@@ -271,64 +271,89 @@ As vagas analisadas também indicam que o conhecimento em apenas um provedor pod
 
 Para estudantes que desejam ingressar nessa área, o levantamento evidencia a importância de construir uma base em **sistemas operacionais, redes, infraestrutura e programação**, avançando posteriormente para serviços de Cloud, automação, DevOps e segurança.
 
-# 2. Análise Individual — NOME DO INTEGRANTE 1
+# 2. Análise Individual — Alessandro Tavares Brandão
 
 ## 2.1 GitHub
+Usuario: alessandro16014 
+ 
+Biografia: Estudante de ADS e apaixonado pelo mundo da tecnologia moderna 
 
-### Identificação do perfil
+Readme: Me Chamo Alessandro Tavares Brandaão, tenho 18 anos e estou cursando o segundo semestre na faculdade no curso de ads (Analise e desenvolvimento de sistemas)
 
-### Repositórios públicos
+Sou estudante de tecnologia apaixonado por aprender coisas novas todos os dias. Atualmente focado em dominar a base do desenvolvimento de software e construir meus primeiros 
+projetos práticos Iniciei os estudos da tecnologia na faculdade, 
+sou iniciante mas sou muito interessado pela area de cloud, dados e sobre o dominio das IAs, 
+acredito que o futuro da tecnologia e do mercado de trabalho estejam nessas areas.
 
-### Repositórios fixados
+Atualmente não possuo repositórios 
 
-### Repositórios com mais estrelas
+Evolução e ultilização: 
+Possuo atualmente 22 seguidores e sigo 19 
+Ultilizo com frequência para olhar alguns projetos de codigo e alguns programas porém apenas
+para visualização dos mesmos, ainda não publiquei projetos meus.
 
-### Evolução dos seguidores
+Pontos em que posso melhorar:
+Conforme eu me aprofundo em meus estudos quero atualizar meu readme, pois acredito que esta muito raso
+e com poucas informações academicas.
+
+Publicar mais repositorios de projetos pessoais de aprendizado, e projetos da faculdade.
+
+Ultilizar nome profissional.
+
 
 
 ## 2.2 LinkedIn
+Cargo alvo e Stack: 
 
-### Cargo alvo e Stack
-
-### Headline profissional
-
-### Crescimento da rede
-
-### Atividade e engajamento
+Profissionalmente meu objetivo é atuar na area de dados ou nuvem como um analista ou com sistemas de cloud com SaaS
 
 
-## 2.3 Instagram
+Atualmente possuo conhecimento em: 
 
-### Posicionamento profissional
+HTML
+Python basico
+estou aprendendo C++
 
-### Bio
+Meu nivel de experiência é iniciante 
 
-### Conteúdo publicado
+Meu Headline: 
 
-### Alinhamento com Cloud Computing
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pela criação de soluções que resolvem problemas reais.
+ Tenho experiência prática no desenvolvimento de protótipos, 
+liderança de equipes e criação de sistemas em Python. 
+Busco oportunidades para crescer na área de desenvolvimento de software e continuar entregando valor por meio da tecnologia.
 
+A minha headline apresenta minha formação e interesse pela area da tecnologia. Conforme vou evoluindo nos meus conhecimentos quero atualizar este headline com mais informações academicas
 
-## 2.4 Outras Redes Profissionais
-
-[Dev.to, Medium, Substack, Notion, portfólio etc.]
-
-[Se não possuir, informar.]
+Possuo 79 conexões, antes das aulas de design profissional possuia em media 15 a 20 conexões.
 
 
 ## 2.5 Plano de Carreira
 
 ### Curto prazo — 6 a 12 meses
 
+Evoluir na área da tecnologia ampliando meus conhecimentos e cursando outros cursos para ampliar meu conhecimento fora da faculdade, desenvolvendo projetos voltados para a área, publicando
+e aumentando meu portifólio profissional visando futuramente o mercado de trabalho.
 ### Médio prazo — 1 a 3 anos
+
+Estar buscando uma efetivação na área em projeção de estar estagiando. Continuar evoluindo meus conhecimentos profissionais e com um nivel avançado de inglês
 
 ### Longo prazo — 3 a 5 anos ou mais
 
+Estar efetetivado e consolidado na área profissional da área da tecnonologia em banco de dados, desenvolvendo, protegendo e mantendo servidores com ultilização de cloud computing.
 
 ## 2.6 PDI — Plano de Desenvolvimento Individual
 
-| Meta | Ação | Prazo | Indicador |
-|---|---|---|---|
-| | | | |
+Atualmente estou cursando ADS e também estudo inglês, procuro iniciar alguns cursos complementares na area de cloud como AWS, Google Cloud e Azure,
+também procuro evoluir meus conhecimentos em python e SQL, acredito que essas duas áreas de estudo são muito importantes para o meu desenvolvimento profissional.
+
+Cursos de interesse:
+
+ Amazon Web Services(AWS)
+ Google Cloud Platform (GCP) 
+ Microsoft Azure 
+ Google Python Class 
+ Data Science Academy 
 
 
 ## 2.7 Feedback dos Pares
