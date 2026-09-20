@@ -1,535 +1,408 @@
-# Cloud Computing: Análise de Mercado e Desenvolvimento Profissional
+☁️ Cloud Computing & DevSecOps
 
-**Integrantes:**
+Mercado e Desenvolvimento Profissional
 
-# Nome: Alessandro tavares brandão
-# Nome: Júlio cesar marques
-# Nome: Pedro gonçalves da mota
-# Nome: Rúben tavares nascimento
+Integrantes
 
-# 1. Análise de Mercado — Cloud Computing
+Alessandro Tavares Brandão
 
-## 1.1 Panorama do Mercado de Cloud Computing
+Julio Cesar Marques
 
-O mercado de computação em nuvem vem apresentando crescimento no Brasil e ocupa um papel importante na transformação digital das empresas. Dados do estudo Mercado Brasileiro de Software – Panorama e Tendências 2026, elaborado pela ABES com base em dados da IDC, indicam que o segmento de nuvem movimentou aproximadamente R$ 85 bilhões no mercado interno brasileiro em 2025, representando crescimento de 35,5% em relação ao ano anterior. Dentro desse segmento, os serviços de SaaS, IaaS e PaaS apresentaram crescimento de 30,9%, 31,6% e 52,0%, respectivamente.
+Pedro Gonçalves da Mota
 
-Esse crescimento está relacionado à expansão da utilização de tecnologias digitais pelas organizações e à necessidade de infraestrutura capaz de atender aplicações, dados e serviços em diferentes escalas. O mercado brasileiro de Tecnologia da Informação como um todo alcançou US$ 67,8 bilhões em receitas em 2025, segundo dados apresentados pela ABES a partir do estudo da IDC.
+Rúben Tavares Nascimento
 
-A computação em nuvem também está relacionada a outras áreas de tecnologia, como inteligência artificial, análise de dados, automação e cibersegurança. Em pesquisa da KPMG realizada com líderes de tecnologia, 51% dos participantes brasileiros esperavam alcançar maturidade tecnológica avançada até 2026, enquanto 58% relataram problemas relacionados à segurança, escalabilidade, qualidade dos dados ou padronização ao acelerar iniciativas tecnológicas.
+Área: Cloud Computing
+Objetivo profissional: DevSecOps
 
-No mercado brasileiro, empresas como Amazon Web Services (AWS), Microsoft Azure, Google Cloud e IBM Cloud estão entre as plataformas utilizadas para oferta de serviços de computação em nuvem. Além das grandes plataformas, o crescimento do setor também gera demanda por profissionais capazes de trabalhar com infraestrutura, desenvolvimento, administração de ambientes, segurança, automação e serviços em nuvem.
+1. Introdução
 
-Dessa forma, os dados analisados indicam que Cloud Computing possui participação relevante no mercado brasileiro de tecnologia e está relacionada a diferentes necessidades de transformação digital das organizações.
+Cloud Computing é uma área da tecnologia responsável por
+disponibilizar recursos computacionais pela internet, como servidores,
+armazenamento, bancos de dados, redes e aplicações. Em vez de depender
+somente de infraestrutura física local, empresas podem utilizar
+plataformas como AWS, Microsoft Azure e Google Cloud Platform (GCP)
+para criar ambientes mais escaláveis, flexíveis e automatizados.
 
-------------------------------------------------------------------------
+A área está presente em empresas de diferentes setores e envolve
+atividades como implantação de aplicações, gerenciamento de
+infraestrutura, automação, monitoramento, controle de acessos e
+segurança. Entre as tecnologias frequentemente relacionadas ao
+trabalho em Cloud estão Linux, Docker, Kubernetes, Terraform, CI/CD e
+ferramentas de observabilidade.
 
-#Demanda por Profissionais
+Dentro desse cenário está o DevSecOps, abordagem que integra
+Desenvolvimento, Segurança e Operações. Seu objetivo é incorporar
+segurança desde as primeiras etapas do desenvolvimento até a implantação
+e manutenção da aplicação, utilizando automação para testes, análise de
+vulnerabilidades, controle de infraestrutura e proteção de ambientes.
 
-A expansão da computação em nuvem criou diferentes possibilidades de
-carreira.
+O grupo escolheu DevSecOps como direcionamento profissional por
+reunir conhecimentos de Cloud Computing, desenvolvimento,
+infraestrutura, automação e cibersegurança, permitindo atuar em
+diferentes etapas do ciclo de vida de sistemas modernos.
 
-  -----------------------------------------------------------------------
-  Cargo                               Principal atuação
-  ----------------------------------- -----------------------------------
-  **Cloud Engineer**                  Implementa, configura e mantém
-                                      ambientes em nuvem.
+2. 📊 Mercado
 
-  **Cloud Architect**                 Planeja e projeta arquiteturas e
-                                      soluções Cloud.
+Em setembro de 2026, o LinkedIn apresentava 392 vagas relacionadas a
+DevSecOps no Brasil, incluindo diferentes níveis de experiência. As
+funções mais relacionadas são DevSecOps Engineer, DevOps Engineer,
+Cloud Engineer, Cloud Security Engineer e SRE.
 
-  **DevOps Engineer**                 Automatiza infraestrutura,
-                                      integração, testes e entregas de
-                                      software.
+2.1 💰 Salários de DevSecOps por país
 
-  **DevSecOps Engineer**              Integra segurança aos processos de
-                                      desenvolvimento e operações.
+Os valores abaixo consideram somente funções relacionadas diretamente
+a DevSecOps. A nomenclatura e a divisão por senioridade variam entre
+países e empresas.
 
-  **Cloud Security Engineer**         Protege aplicações, dados,
-                                      identidades e infraestruturas em
-                                      nuvem.
-  -----------------------------------------------------------------------
+🇧🇷 Brasil
 
-Esses profissionais podem atuar em **empresas de tecnologia, bancos,
-fintechs, consultorias, startups, comércio eletrônico e grandes
-organizações** que utilizam infraestrutura em nuvem.
+Nível                                Referência
 
-------------------------------------------------------------------------
+DevSecOps Júnior        ~R$ 7 mil/mês
+DevSecOps Pleno         ~R$ 9 mil/mês
+DevSecOps Engineer     ~R$ 11 mil/mês
 
-#Salários
+Júnior: auxilia em pipelines, Cloud, automação e controles de
+segurança.
 
-Cloud Computing possui **remunerações competitivas no setor de
-tecnologia**, principalmente por exigir conhecimentos especializados em
-infraestrutura, desenvolvimento, automação e segurança.
+Pleno: possui maior autonomia em CI/CD, infraestrutura e
+segurança.
 
-No Brasil, um **Cloud Engineer** possui salário-base médio próximo de
-**R\$ 9.000 por mês**, com uma faixa comum em torno de **R\$ 6.000 a R\$
-14.000 mensais**, podendo variar conforme empresa, região e experiência.
+Engineer: integra desenvolvimento, operações, Cloud e segurança
+de forma mais ampla.
 
-Profissionais de **DevOps e DevSecOps** também apresentam remunerações
-competitivas. Em cargos **sênior, arquitetura, liderança ou segurança
-especializada**, os salários podem ser consideravelmente maiores.
+🇺🇸 Estados Unidos
 
-#Fatores que influenciam o salário
+DevSecOps Engineer: mediana de remuneração total próxima de
+US$ 186 mil/ano, com variação conforme experiência e empresa.
 
--   **Nível de experiência e senioridade;**
--   **Conhecimento em AWS, Azure ou Google Cloud;**
--   **Domínio de automação e Infrastructure as Code (IaC);**
--   **Conhecimentos em segurança e DevSecOps;**
--   **Experiência com Docker e Kubernetes;**
--   **Certificações profissionais;**
--   **Inglês e experiência em projetos internacionais.**
+Função: automatizar infraestrutura e pipelines, integrar
+controles de segurança e trabalhar com ambientes Cloud.
 
-> **Observação:** os valores salariais são referências de mercado e
-> podem variar conforme período, localização, empresa, regime de
-> contratação e nível profissional.
+🇨🇦 Canadá
 
-------------------------------------------------------------------------
+DevSecOps Engineer: média próxima de CA$ 112,7 mil/ano.
 
-#Principais Tecnologias
+Função: trabalhar com Cloud, CI/CD, containers, automação e
+segurança durante o ciclo de desenvolvimento.
 
-#Plataformas Cloud
+🇬🇧 Reino Unido
 
-As três principais plataformas utilizadas no mercado são:
+DevSecOps Engineer: média próxima de £ 62,5 mil/ano.
 
--   **Amazon Web Services (AWS)**
--   **Microsoft Azure**
--   **Google Cloud Platform (GCP)**
+Função: integrar práticas de segurança aos processos DevOps,
+automatizar deploys e proteger infraestrutura e aplicações.
 
-#Tecnologias complementares
+🇩🇪 Alemanha
 
-Além das plataformas Cloud, são valorizados conhecimentos em:
+DevSecOps Engineer: referências públicas observadas entre
+aproximadamente € 42 mil e € 129 mil/ano, com forte variação por
+experiência e cidade.
 
--   **Linux e redes**
--   **Git**
--   **Docker**
--   **Kubernetes**
--   **Terraform**
--   **CI/CD**
--   **Monitoramento e observabilidade**
--   **Segurança da Informação**
+Função: atuar com infraestrutura Cloud, automação, containers,
+segurança e observabilidade.
 
-O profissional não precisa dominar todas essas tecnologias inicialmente,
-mas o conhecimento delas aumenta as possibilidades de especialização e
-crescimento profissional.
+🇵🇹 Portugal
 
-------------------------------------------------------------------------
+DevSecOps Engineer: mediana de remuneração total próxima de €
+41 mil/ano.
 
-#DevSecOps
+Função: apoiar automação, CI/CD, infraestrutura, Cloud e
+implementação de controles de segurança.
 
-**DevSecOps** significa **Development, Security and Operations**
-(Desenvolvimento, Segurança e Operações).
+Os valores são referências de mercado consultadas em setembro de 2026.
+Custo de vida, impostos, benefícios, cidade, experiência e regime de
+contratação devem ser considerados ao comparar países. Quando não
+havia dados públicos suficientemente consistentes por
+Júnior/Pleno/Sênior, foi mantida apenas a referência de DevSecOps
+Engineer, evitando estimativas sem base.
 
-Seu objetivo é incorporar a **segurança durante todo o ciclo de
-desenvolvimento do software**, em vez de verificar vulnerabilidades
-somente quando a aplicação já está pronta.
+3. 🔍 Vagas e Competências
 
-#Principais atividades
+As vagas analisadas --- incluindo oportunidades da xTracky, Coupled
+Tecnologia e SHSquads --- mostram que DevSecOps exige uma combinação
+de conhecimentos técnicos e habilidades comportamentais.
 
-Um profissional de DevSecOps pode trabalhar com:
+Hard Skills
 
--   **Análise e correção de vulnerabilidades;**
--   **Automação de testes de segurança;**
--   **Gerenciamento seguro de credenciais e segredos;**
--   **Controle de identidade e acesso (IAM);**
--   **Segurança de containers e ambientes Kubernetes;**
--   **Proteção de pipelines CI/CD;**
--   **Monitoramento contínuo de aplicações e infraestrutura.**
+Cloud: AWS, Microsoft Azure e Google Cloud Platform (GCP);
 
-O DevSecOps ganha importância porque ambientes Cloud precisam ser
-**automatizados e, ao mesmo tempo, protegidos contra falhas, acessos
-indevidos e vulnerabilidades**.
+Sistemas e redes: Linux, TCP/IP, DNS e HTTP;
 
-------------------------------------------------------------------------
+Containers: Docker e Kubernetes;
 
-#Perspectivas da Área
+Infrastructure as Code: Terraform;
 
-As perspectivas para Cloud Computing estão positivas devido ao crescimento
-das tecnologias que dependem diretamente de infraestrutura computacional
-escalável.
+CI/CD: GitHub Actions, GitLab CI, Jenkins e ArgoCD;
 
-Entre os principais fatores estão:
+Versionamento: Git e GitHub;
 
--   **Inteligência Artificial (IA);**
--   **Automação de processos;**
--   **Cibersegurança;**
--   **Análise e processamento de dados;**
--   **Modernização de sistemas empresariais;**
--   **Migração de aplicações para a nuvem.**
+Segurança: IAM, SAST, análise de vulnerabilidades e
+gerenciamento de secrets;
 
-Com isso, profissionais que combinam conhecimentos de **Cloud Computing,
-DevOps, automação e DevSecOps** possuem diferentes possibilidades de
-carreira e especialização no mercado de tecnologia.
+Automação: Python e Bash;
 
-------------------------------------------------------------------------
+Observabilidade: logs, métricas, Grafana, Prometheus e
+CloudWatch;
 
-## 1.3 Demanda por profissionais
+Práticas DevSecOps: segurança integrada ao pipeline, princípio
+do menor privilégio e GitOps.
 
-A demanda por conhecimentos relacionados à computação em nuvem apresenta relevância no mercado brasileiro de tecnologia. Uma pesquisa da Brasscom identificou que 84% das empresas entrevistadas consideram conhecimentos em computação em nuvem como requisitos técnicos básicos para a seleção de profissionais de nível júnior. O resultado demonstra que conhecimentos relacionados à nuvem não estão restritos somente a profissionais experientes, aparecendo também entre as competências esperadas no início da carreira.
+Soft Skills
 
-Além disso, uma pesquisa realizada pela Brasscom em parceria com a Fundação Telefônica Vivo apontou que 82% das empresas do setor de Tecnologia da Informação e Comunicação planejavam aumentar suas equipes nos dois anos seguintes. Entre essas empresas, 46% pretendiam direcionar novas oportunidades para profissionais juniores, como estagiários, aprendizes e iniciantes de carreira. O estudo também apontou a computação em nuvem entre os conhecimentos técnicos mais valorizados e mais difíceis de encontrar entre candidatos juniores.
+Comunicação: explicar problemas e soluções de forma clara;
 
-A expansão do mercado de nuvem também contribui para a necessidade de profissionais qualificados. Segundo dados da Brasscom baseados em fontes como a IDC, o mercado brasileiro de nuvem movimentou aproximadamente R$ 85 bilhões em 2025, registrando crescimento de 35,5% em relação ao ano anterior. Para o período de 2026 a 2029, a Brasscom projeta R$ 765,6 bilhões em investimentos relacionados à nuvem.
+Trabalho em equipe: colaborar com desenvolvimento, segurança e
+operações;
 
-Outro indicador pode ser observado nas plataformas de recrutamento. No momento da consulta, o LinkedIn apresentava mais de 7.000 vagas relacionadas a Cloud no Brasil, incluindo cargos como Cloud Engineer, Cloud Infrastructure Engineer, Cloud & DevOps, Cloud Architect e Solutions Architect. A quantidade de anúncios é dinâmica e representa apenas as oportunidades disponíveis na plataforma no momento da pesquisa.
+Resolução de problemas: investigar falhas e encontrar soluções;
 
-## 1.4 Perspectivas de crescimento
+Pensamento analítico: interpretar logs, métricas e riscos;
 
-As perspectivas de crescimento da computação em nuvem no Brasil são positivas, principalmente devido ao aumento dos investimentos em infraestrutura digital, inteligência artificial e transformação digital.
+Organização: administrar tarefas, ambientes e prioridades;
 
-Segundo a Brasscom, o mercado brasileiro de computação em nuvem movimentou **R$ 85 bilhões em 2025**, apresentando um crescimento de **35,5%** em relação ao ano anterior. Para o período de 2026 a 2029, a entidade projeta **R$ 765,6 bilhões em investimentos relacionados à nuvem**, dentro de uma projeção de até R$ 2 trilhões em investimentos em tecnologias no Brasil.
+Adaptabilidade: acompanhar mudanças de ferramentas e
+tecnologias;
 
-Outro fator relacionado a esse crescimento é a expansão da infraestrutura de data centers, necessária para atender à crescente utilização de serviços em nuvem, inteligência artificial e outras aplicações digitais. A expansão dessa infraestrutura demonstra a necessidade de investimentos contínuos para acompanhar a evolução do setor.
+Aprendizado contínuo: atualizar conhecimentos técnicos
+constantemente;
 
-Esse cenário também pode contribuir para o aumento da demanda por profissionais especializados em tecnologias de nuvem, especialmente em funções relacionadas a **Cloud Engineering, Cloud Architecture, DevOps, Cloud Security e Cloud Operations**. Dessa forma, profissionais que desenvolvem conhecimentos em computação em nuvem, infraestrutura, redes, segurança e automação podem encontrar novas oportunidades à medida que o mercado se expande.
+Responsabilidade: entender o impacto de alterações em produção;
 
-Em síntese, os investimentos previstos e a expansão da infraestrutura indicam que a computação em nuvem continuará sendo uma área relevante para o mercado de tecnologia nos próximos anos, tornando a capacitação profissional e a atualização constante importantes para acompanhar as novas demandas do setor.
+Proatividade: identificar riscos e melhorias antes que se tornem
+problemas.
 
-**Fontes:**
-- Brasscom — *Estudo da Brasscom projeta até R$ 2 trilhões em investimentos em tecnologias até 2029*.
-- Brasscom — *Relatório Setorial 2025*.
+Perfil buscado: Cloud + Linux + Docker + Terraform + Kubernetes +
+CI/CD + Segurança + Observabilidade + Automação + colaboração.
 
-## 1.5 Mapeamento de Vagas
+4. 👥 Análises Individuais
 
-[LinkedIn – Vagas de Cloud no Brasil](https://br.linkedin.com/jobs/cloud-vagas)
+4.1 Alessandro Tavares Brandão
 
-| Cargo | Empresa | Localização | Principais tecnologias/conhecimentos |
-|---|---|---|---|
-| Cloud Engineer | BairesDev | São Paulo / Remoto | Microsoft Azure |
-| Cloud Engineer (GCP) | BairesDev | Brasil / Remoto | Google Cloud Platform |
-| Cloud Infrastructure Engineer | Sycomp | São Paulo | Infraestrutura Cloud |
-| AWS Platform Engineer | Getnet Platforms | São Paulo | AWS e infraestrutura |
-| Cloud Engineer GCP | e-Core | São Paulo | Google Cloud Platform |
-| Cloud Engineer - GCP/AWS | FactSet | São Paulo | GCP e AWS |
-| DevOps / Cloud Engineer com foco em AWS | GFT Technologies Brasil | São Paulo | AWS e DevOps |
-| Senior Cloud TFE Engineer | Cognizant | São Paulo | AWS, Terraform e Azure |
-| Especialista de Platform Engineering & Cloud | Ouribank | Brasil | Cloud e Platform Engineering |
-| Cloud Infrastructure Engineer | Platform Science | Londrina | Infraestrutura e Cloud |
+GitHub: https://github.com/alessandro16014\
+LinkedIn: https://www.linkedin.com/in/alessandro-tavares-brandao/
 
-Os anúncios analisados demonstram a presença de diferentes provedores de computação em nuvem no mercado, principalmente **AWS, Microsoft Azure e Google Cloud Platform (GCP)**. Também aparecem com frequência conhecimentos relacionados a DevOps, infraestrutura, automação e engenharia de plataformas. [LinkedIn – Vagas de Cloud Engineer](https://br.linkedin.com/jobs/cloud-engineer-vagas)
+O GitHub apresentava 1 repositório público e 22 seguidores. O perfil
+demonstra formação em ADS, mas ainda possui pouco conteúdo técnico
+público voltado a DevSecOps. O próximo passo é publicar projetos com
+Cloud, Docker, Terraform, CI/CD e segurança. Os 22 seguidores ficam
+como referência inicial de evolução.
 
-### Exemplo de vaga: DevOps / Cloud Engineer com foco em AWS
+Plano/PDI: em 6--12 meses, estudar Linux, redes, Cloud, Docker,
+Terraform e CI/CD; em 1--3 anos, buscar experiência em
+Cloud/DevOps/DevSecOps e Kubernetes; em 3--5 anos, consolidar atuação
+como DevSecOps Engineer.
 
-Uma das vagas encontradas foi para **DevOps / Cloud Engineer com foco em AWS**, da GFT Technologies Brasil, localizada em São Paulo. A oportunidade demonstra a utilização de conhecimentos de Cloud associados a práticas de DevOps.
+Feedback dos colegas:
 
-Outro exemplo é a vaga de **Senior Cloud TFE Engineer**, da Cognizant, em São Paulo, que apresenta no próprio título conhecimentos em **AWS, Terraform e Azure**, demonstrando a importância de profissionais capazes de trabalhar com diferentes tecnologias de Cloud.
+Julio: Pra mim, o Alessandro já tem um objetivo bem definido. Acho
+que o principal agora é colocar mais projetos no GitHub, principalmente
+envolvendo Cloud, Docker e CI/CD. O plano dele faz sentido e mostra um
+bom caminho para chegar em DevSecOps.
 
-Também foi encontrada uma vaga de **Cloud Engineer (GCP)** da e-Core, em São Paulo, além de uma vaga de **Cloud Engineer - GCP/AWS**, da FactSet, demonstrando a presença de oportunidades envolvendo diferentes provedores de nuvem. [LinkedIn – Cloud Engineer](https://br.linkedin.com/jobs/cloud-engineer-vagas)
+Pedro: Acho que o Alessandro está seguindo uma direção boa. O que
+mais ajudaria seria mostrar na prática o que está aprendendo, com
+projetos de Cloud e segurança. Isso deixaria o perfil dele mais
+completo.
 
-### Nível de experiência
+Rúben: Vejo que o Alessandro sabe onde quer chegar, mas ainda
+precisa fortalecer o portfólio. Seguindo o PDI e praticando Linux,
+Cloud, Terraform e CI/CD, acredito que ele vai se aproximar bastante do
+perfil que as vagas procuram.
 
-A pesquisa também mostra que existe uma concentração significativa de vagas em níveis mais experientes. Em uma consulta específica por **Azure Cloud Engineer**, foram encontradas **333 vagas no Brasil**, sendo:
+4.2 Julio Cesar Marques
 
-- **19 vagas** classificadas como júnior;
-- **32 vagas** classificadas como assistente;
-- **226 vagas** classificadas como pleno-sênior;
-- **1 vaga** de estágio.
+GitHub: https://github.com/Juliocesarmarq\
+LinkedIn: https://www.linkedin.com/in/j%C3%BAliocesar1983/
 
-Esses números correspondem ao momento da consulta e podem sofrer alterações conforme novos anúncios são publicados ou encerrados. [LinkedIn – Azure Cloud Engineer no Brasil](https://br.linkedin.com/jobs/azure-cloud-engineer-brazil-vagas)
+O GitHub apresentava 13 repositórios públicos e 19 seguidores, com
+projetos de estudo e desenvolvimento, incluindo uso de Python e
+HTML. Há prática em programação, mas faltam evidências de Cloud,
+IaC, containers, CI/CD e segurança. Os 19 seguidores ficam como linha
+de base.
 
-### Principais Hard Skills identificadas
-A análise das vagas permitiu identificar algumas das principais competências técnicas solicitadas pelo mercado:
+Plano/PDI: em 6--12 meses, desenvolver Linux, redes, Cloud, Docker e
+Terraform; em 1--3 anos, aprofundar CI/CD, Kubernetes, IAM e segurança;
+em 3--5 anos, consolidar carreira em DevSecOps.
 
-- AWS;
-- Microsoft Azure;
-- Google Cloud Platform (GCP);
-- Terraform;
-- Kubernetes;
-- Docker;
-- DevOps;
-- CI/CD;
-- Infraestrutura como Código (IaC);
-- Linux;
-- Redes;
-- Automação;
-- Segurança em Cloud;
-- Monitoramento e observabilidade;
-- Git e GitHub.
+Feedback dos colegas:
 
-Uma vaga de **Senior AWS Cloud Engineer**, por exemplo, solicita conhecimentos em serviços AWS como EKS, API Gateway, Lambda, IAM, EC2, VPC e Route 53, além de Terraform, GitHub e GitHub Actions. A mesma oportunidade também destaca inglês avançado e capacidade de atuação colaborativa em ambientes globais. [LinkedIn – Senior AWS Cloud Engineer](https://br.linkedin.com/jobs/view/senior-aws-cloud-engineer-at-act-digital-4465944288)
+Alessandro: O Julio já tem vários projetos no GitHub, e isso é um
+ponto positivo. Acho que agora ele pode aproveitar essa experiência e
+começar a criar projetos mais voltados para Cloud, Docker e CI/CD.
 
-### Principais Soft Skills identificadas
+Pedro: Pra mim, o Julio já tem uma boa base em programação. O
+próximo passo seria levar isso para a área de DevSecOps, principalmente
+praticando containers, infraestrutura como código e segurança.
 
-Além dos conhecimentos técnicos, algumas características comportamentais aparecem nas vagas analisadas:
+Rúben: Acho o GitHub do Julio bem ativo e isso ajuda bastante. O
+plano dele também está bem organizado, porque começa pelos fundamentos e
+depois avança para Kubernetes, IAM e segurança.
 
-- Comunicação;
-- Trabalho em equipe;
-- Capacidade de resolução de problemas;
-- Capacidade analítica;
-- Adaptabilidade;
-- Colaboração com diferentes equipes;
-- Organização;
-- Proatividade;
-- Capacidade de trabalhar em ambientes dinâmicos.
+4.3 Pedro Gonçalves da Mota
 
-Em uma vaga de Cloud Engineer analisada, por exemplo, são mencionadas capacidade analítica, facilidade para atuar em ambientes colaborativos e perfil prático (*hands-on*), além dos conhecimentos técnicos. [LinkedIn – Senior AWS Cloud Engineer](https://br.linkedin.com/jobs/view/senior-aws-cloud-engineer-at-act-digital-4465944288)
+GitHub: https://github.com/PedroGMota\
+LinkedIn: https://www.linkedin.com/in/pedro-goncalves-da-mota/
 
-### Análise do mapeamento
+O GitHub apresentava 2 repositórios públicos e 18 seguidores. O
+repositório design-profissional-cloud-computing já evidencia interesse
+em Cloud Computing. O próximo passo é transformar esse estudo em
+projetos práticos com Docker, Terraform, CI/CD, Cloud e segurança.
 
-O levantamento demonstra que o mercado de Cloud Computing possui oportunidades em diferentes funções, como **Cloud Engineer, Cloud Infrastructure Engineer, DevOps Engineer, Platform Engineer e Cloud Architect**.
+Plano/PDI: em 6--12 meses, criar projetos práticos em Cloud e
+automação; em 1--3 anos, adquirir experiência em Cloud/DevOps/DevSecOps,
+Kubernetes e IAM; em 3--5 anos, atuar com autonomia como DevSecOps
+Engineer.
 
-As vagas analisadas também indicam que o conhecimento em apenas um provedor pode não ser suficiente para determinadas posições, já que existem oportunidades que combinam tecnologias como **AWS, Azure e GCP** com ferramentas de automação e infraestrutura, como **Terraform, Kubernetes e CI/CD**.
+Feedback dos colegas:
 
-Para estudantes que desejam ingressar nessa área, o levantamento evidencia a importância de construir uma base em **sistemas operacionais, redes, infraestrutura e programação**, avançando posteriormente para serviços de Cloud, automação, DevOps e segurança.
+Alessandro: O Pedro já mostra interesse em Cloud Computing, o que
+combina bastante com o objetivo do grupo. Acho que seria legal
+transformar esse conhecimento em projetos usando Docker, Terraform e
+alguma plataforma Cloud.
 
-# 2. Análise Individual — Alessandro Tavares Brandão
+Julio: Pra mim, o Pedro está no caminho certo. O plano dele combina
+com DevSecOps e pode ficar ainda melhor conforme ele for colocando no
+GitHub projetos práticos do que está estudando.
 
-## 2.1 GitHub
-Usuario: alessandro16014 
- 
-Biografia: Estudante de ADS e apaixonado pelo mundo da tecnologia moderna 
+Rúben: Acho que o direcionamento do Pedro para Cloud é um bom
+começo. Agora seria interessante juntar isso com CI/CD, Terraform e
+segurança para mostrar melhor a evolução dele na área.
 
-Readme: Me Chamo Alessandro Tavares Brandaão, tenho 18 anos e estou cursando o segundo semestre na faculdade no curso de ads (Analise e desenvolvimento de sistemas)
+4.4 Rúben Tavares Nascimento
 
-Sou estudante de tecnologia apaixonado por aprender coisas novas todos os dias. Atualmente focado em dominar a base do desenvolvimento de software e construir meus primeiros 
-projetos práticos Iniciei os estudos da tecnologia na faculdade, 
-sou iniciante mas sou muito interessado pela area de cloud, dados e sobre o dominio das IAs, 
-acredito que o futuro da tecnologia e do mercado de trabalho estejam nessas areas.
+GitHub: https://github.com/rb0710\
+LinkedIn: https://www.linkedin.com/in/r%C3%BAben-tavares-b5b371260/
 
-Atualmente não possuo repositórios 
+O GitHub demonstra uma base em Back-End, com Java, Spring Boot,
+APIs REST, banco de dados, Git e GitHub, além do direcionamento para
+Cloud/DevSecOps. Entre os projetos estão LifeUP-Back-End,
+suporteSenai e LifeUP-Front-End. A referência anterior registrou 6
+seguidores.
 
-Evolução e ultilização: 
-Possuo atualmente 22 seguidores e sigo 19 
-Ultilizo com frequência para olhar alguns projetos de codigo e alguns programas porém apenas
-para visualização dos mesmos, ainda não publiquei projetos meus.
+O LinkedIn apresentava 43 seguidores e 43 conexões, além de
+publicações sobre projetos como o LifeUP. Para fortalecer o
+posicionamento DevSecOps sem abandonar Back-End, os projetos podem
+incorporar Docker, GitHub Actions, SAST, Terraform, Cloud, IAM e
+observabilidade.
 
-Pontos em que posso melhorar:
-Conforme eu me aprofundo em meus estudos quero atualizar meu readme, pois acredito que esta muito raso
-e com poucas informações academicas.
+Plano/PDI: em 6--12 meses, aplicar Docker, Cloud, Terraform, CI/CD e
+segurança aos projetos; em 1--3 anos, aprofundar Kubernetes, IAM e
+observabilidade; em 3--5 anos, consolidar-se como DevSecOps Engineer
+aproveitando a experiência Back-End.
 
-Publicar mais repositorios de projetos pessoais de aprendizado, e projetos da faculdade.
+Feedback dos colegas:
 
-Ultilizar nome profissional.
+Alessandro: O Rúben já tem uma base boa em Back-End, e acho que isso
+pode ajudar bastante em DevSecOps. Ele pode aproveitar os projetos que
+já tem e começar a adicionar Docker, Cloud e automação.
 
+Julio: Pra mim, a experiência do Rúben com Java, Spring Boot e APIs
+é um ponto forte. O próximo passo seria colocar CI/CD e ferramentas de
+segurança nesses projetos para aproximar mais o perfil de DevSecOps.
 
+Pedro: Acho interessante o Rúben continuar com Back-End e ir
+acrescentando Cloud e segurança, sem abandonar o que já sabe. O plano
+dele está bem direcionado e tem tecnologias importantes como Terraform,
+Kubernetes e observabilidade.
 
-## 2.2 LinkedIn
-Cargo alvo e Stack: 
+5. 📈 Conclusão e Plano de Ação
 
-Profissionalmente meu objetivo é atuar na area de dados ou nuvem como um analista ou com sistemas de cloud com SaaS
+A análise mostra que os quatro integrantes possuem interesse em
+tecnologia e estão em diferentes estágios de construção de portfólio. O
+principal gap em relação às vagas analisadas é a falta de evidências
+práticas em Cloud, containers, Infrastructure as Code, CI/CD,
+Kubernetes, segurança e observabilidade.
 
+Plano do grupo
 
-Atualmente possuo conhecimento em: 
+Prazo                   Foco                    Resultado esperado
 
-HTML
-Python basico
-estou aprendendo C++
+3--4 meses              Linux, redes, Git e     Laboratórios e projeto
+Cloud                   Cloud
 
-Meu nivel de experiência é iniciante 
+5--6 meses              Docker e Terraform      Aplicação
+containerizada + IaC
 
-Meu Headline: 
+8--9 meses              CI/CD, IAM e segurança  Pipeline com controles
+de segurança
 
-Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pela criação de soluções que resolvem problemas reais.
- Tenho experiência prática no desenvolvimento de protótipos, 
-liderança de equipes e criação de sistemas em Python. 
-Busco oportunidades para crescer na área de desenvolvimento de software e continuar entregando valor por meio da tecnologia.
+A estratégia é transformar os estudos em projetos públicos
+documentados, aproximando os perfis das competências encontradas nas
+vagas.
 
-A minha headline apresenta minha formação e interesse pela area da tecnologia. Conforme vou evoluindo nos meus conhecimentos quero atualizar este headline com mais informações academicas
+10. Referências
 
-Possuo 79 conexões, antes das aulas de design profissional possuia em media 15 a 20 conexões.
+LinkedIn Jobs. Vagas de DevSecOps no Brasil. Consulta em
+setembro de 2026. https://br.linkedin.com/jobs/devsecops-vagas
 
+LinkedIn Jobs. Vagas de DevOps no Brasil. Consulta em setembro
+de 2026. https://br.linkedin.com/jobs/devops-vagas
 
-## 2.5 Plano de Carreira
+LinkedIn Jobs. Vagas relacionadas a Terraform no Brasil.
+Consulta em setembro de 2026.
+https://br.linkedin.com/jobs/terraform-vagas
 
-### Curto prazo — 6 a 12 meses
+LinkedIn / xTracky. DevOps Engineer --- AWS + Terraform +
+Kubernetes. Consulta em setembro de 2026.
+https://br.linkedin.com/jobs/view/devops-engineer-aws-%2B-terraform-%2B-kubernetes-at-xtracky-4340501720
 
-Evoluir na área da tecnologia ampliando meus conhecimentos e cursando outros cursos para ampliar meu conhecimento fora da faculdade, desenvolvendo projetos voltados para a área, publicando
-e aumentando meu portifólio profissional visando futuramente o mercado de trabalho.
-### Médio prazo — 1 a 3 anos
+LinkedIn / Coupled Tecnologia. DevOps Pleno --- Oracle Cloud,
+AWS, Terraform, Python e ArgoCD. Consulta em setembro de 2026.
+https://br.linkedin.com/jobs/view/devops-pleno-oracle-cloud-aws-terraform-python-argocd-at-coupled-tecnologia-4414006495
 
-Estar buscando uma efetivação na área em projeção de estar estagiando. Continuar evoluindo meus conhecimentos profissionais e com um nivel avançado de inglês
+LinkedIn / SHSquads. DevOps Sênior --- AWS, Kubernetes e CI/CD.
+Consulta em setembro de 2026.
+https://br.linkedin.com/jobs/view/vaga-devops-s%C3%AAnior-aws-kubernetes-ci-cd-at-shsquads-4352566101
 
-### Longo prazo — 3 a 5 anos ou mais
+Glassdoor Brasil. Salários de DevSecOps no Brasil. Consulta em
+setembro de 2026.
+https://www.glassdoor.com.br/Sal%C3%A1rios/brazil-devsecops-sal%C3%A1rio-SRCH_IL.0%2C6_IN36_KO7%2C16.htm
 
-Estar efetetivado e consolidado na área profissional da área da tecnonologia em banco de dados, desenvolvendo, protegendo e mantendo servidores com ultilização de cloud computing.
+Glassdoor Brasil. Salários de Desenvolvedor DevSecOps no Brasil.
+Consulta em setembro de 2026.
+https://www.glassdoor.com.br/Sal%C3%A1rios/desenvolvedor-devsecops-sal%C3%A1rio-SRCH_KO0%2C23.htm
 
-## 2.6 PDI — Plano de Desenvolvimento Individual
+Glassdoor. DevSecOps Engineer --- Estados Unidos. Consulta em
+setembro de 2026.
+https://www.glassdoor.com/Salaries/devsecops-engineer-salary-SRCH_KO0%2C18.htm
 
-Atualmente estou cursando ADS e também estudo inglês, procuro iniciar alguns cursos complementares na area de cloud como AWS, Google Cloud e Azure,
-também procuro evoluir meus conhecimentos em python e SQL, acredito que essas duas áreas de estudo são muito importantes para o meu desenvolvimento profissional.
+Glassdoor. DevSecOps Engineer --- Canadá. Consulta em setembro
+de 2026.
+https://www.glassdoor.ca/Salaries/devsecops-engineer-consultant-salary-SRCH_KO0%2C29.htm
 
-Cursos de interesse:
+Glassdoor UK. DevSecOps Engineer --- Reino Unido. Consulta em
+setembro de 2026.
+https://www.glassdoor.co.uk/Salaries/london-england-devsecops-engineer-salary-SRCH_IL.0%2C14_KO15%2C33.htm
 
- Amazon Web Services(AWS)
- Google Cloud Platform (GCP) 
- Microsoft Azure 
- Google Python Class 
- Data Science Academy 
+Glassdoor Deutschland. DevSecOps Engineer --- Alemanha. Consulta
+em setembro de 2026.
+https://www.glassdoor.de/Geh%C3%A4lter/devsecops-engineer-gehalt-SRCH_KO0%2C18.htm
 
+Glassdoor. DevSecOps Engineer --- Portugal. Consulta em setembro
+de 2026.
+https://www.glassdoor.com/Salaries/portugal-devsecops-engineer-salary-SRCH_IL.0%2C8_IN195_KO9%2C27.htm
 
-## 2.7 Feedback dos Pares
+10.1 Perfis analisados
 
-### Feedback — Integrante 2
+Alessandro Tavares Brandão --- GitHub:
+https://github.com/alessandro16014
 
-[FEEDBACK]
+Alessandro Tavares Brandão --- LinkedIn:
+https://www.linkedin.com/in/alessandro-tavares-brandao/
 
-### Feedback — Integrante 3
+Julio Cesar Marques --- GitHub: https://github.com/Juliocesarmarq
 
-[FEEDBACK]
+Julio Cesar Marques --- LinkedIn:
+https://www.linkedin.com/in/j%C3%BAliocesar1983/
 
-### Feedback — Integrante 4
+Pedro Gonçalves da Mota --- GitHub: https://github.com/PedroGMota
 
-[FEEDBACK]
+Pedro Gonçalves da Mota --- LinkedIn:
+https://www.linkedin.com/in/pedro-goncalves-da-mota/
 
+Rúben Tavares Nascimento --- GitHub: https://github.com/rb0710
 
-# 3. Análise Individual — Julio Cesar
-
-## 2.1 GitHub
-
- Identificação do Perfil
-
-Usuário: *Juliocesarmarq*
-
-Biografia: Tenho 19 anos e curso Análise e Desenvolvimento de Sistemas.
-
-O perfil ainda não possui README de apresentação.
-
-Repositórios Públicos
-
-Possuo atualmente *13 repositórios públicos*.
-
-Repositórios fixados:
-
-* alura
-* alura-cssssss
-* arula-livros-parte1
-* a2git
-* meu-repositório
-* xmenflix
-
-Os projetos publicados representam conhecimentos adquiridos durante meus estudos de programação. Atualmente, os repositórios precisam de melhorias na organização, nomes mais claros e criação de arquivos README para explicar os objetivos e tecnologias utilizadas.
-
-Evolução e Utilização
-
-Atualmente possuo *18 seguidores* e sigo *19 usuários*.
-
-O GitHub ainda não é utilizado com frequência para trabalhos da faculdade, porém pretendo utilizá-lo para publicar projetos acadêmicos e pessoais. Meu objetivo é aumentar minha participação na plataforma, realizando mais commits e compartilhando minha evolução técnica.
-
- Pontos de Melhoria
-
-* Criar README do perfil e dos projetos;
-* Melhorar a organização dos repositórios;
-* Utilizar nomes mais profissionais;
-* Publicar projetos desenvolvidos na faculdade;
-* Utilizar o GitHub com maior frequência.
-
-## 2.2 LinkedIn
-
-Cargo Alvo e Stack
-
-Meu objetivo profissional é atuar como *Pentester (Testador de Segurança)* na área de *Cibersegurança*.
-
-Atualmente possuo conhecimentos em:
-
-* HTML;
-* GitHub;
-* Python básico;
-* C++ em aprendizado.
-
-Meu nível de experiência atual é *Jovem Aprendiz*.
-
- Headline Profissional
-
-Headline atual:
-
-"Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por programação e desenvolvimento de software | Em constante aprendizado."
-
-A headline apresenta minha formação e interesse pela área de tecnologia. Futuramente, pretendo adicionar palavras-chave mais relacionadas à Cibersegurança para melhorar o alinhamento com meu objetivo profissional.
-
- Crescimento da Rede
-
-Atualmente possuo:
-
-* 31 conexões;
-* 31 seguidores.
-
-Minha rede ainda está em crescimento. Pretendo aumentar minhas conexões com profissionais de tecnologia, recrutadores e pessoas da área de Cibersegurança.
-
- Atividade e Engajamento
-
-Atualmente não realizo publicações, mas interajo com algumas publicações relacionadas à tecnologia.
-
-Como melhoria, pretendo compartilhar projetos, estudos e aprendizados para fortalecer minha presença profissional.
-
- Outras Redes e Planejamento
-
-## 2.5 Plano de Carreira
-
- Curto prazo (6 a 12 meses)
-
-Ampliar meus conhecimentos em programação, estudar Cibersegurança, redes e sistemas operacionais. Também busco conquistar uma oportunidade de estágio ou aprendiz na área de Tecnologia da Informação.
-
-Médio prazo (1 a 3 anos)
-
-Buscar efetivação na área de tecnologia com foco em Cibersegurança, iniciar uma pós-graduação em Segurança da Informação/Cibersegurança e desenvolver projetos práticos. Também pretendo melhorar meu inglês e buscar certificações.
-
- Longo prazo (3 a 5 anos ou mais)
-
-Atuar profissionalmente na área de Cibersegurança, evoluindo como especialista em segurança, realizando testes de segurança, análise de vulnerabilidades e continuando meus estudos.
-
-## 2.6 PDI — Plano de Desenvolvimento Individual
-
-Atualmente curso Análise e Desenvolvimento de Sistemas e realizo cursos complementares de tecnologia pela Fundação Bradesco e outras plataformas. Também acompanho o mercado de trabalho para entender as tecnologias e habilidades exigidas.
-
-Para minha evolução profissional, pretendo estudar:
-
-* Java;
-* Linux;
-* Python;
-* C++;
-* Redes de computadores;
-* Fundamentos de Cibersegurança.
-
-Cursos de interesse:
-
-* Fundamentos de Cibersegurança;
-* Linux e Redes de Computadores;
-* Ethical Hacking e Testes de Invasão.
-
-Além das habilidades técnicas, pretendo melhorar inglês, comunicação e disciplina nos estudos.
-
-Meu progresso será acompanhado mensalmente através da evolução nos estudos, conclusão de cursos, criação de projetos, melhoria no inglês e desenvolvimento das minhas habilidades profissionais.
-
-
-# 4. Análise Individual — NOME DO INTEGRANTE 3
-
-[REPETIR A MESMA ESTRUTURA]
-
-
-# 5. Análise Individual — NOME DO INTEGRANTE 4
-
-[REPETIR A MESMA ESTRUTURA]
-
-
-# 6. Conclusão — Análise de Gaps e Plano de Ação
-
-## 6.1 Análise conjunta
-
-[Síntese dos planos de carreira e PDIs.]
-
-## 6.2 Comparação com o mercado
-
-[Comparar os perfis dos integrantes com as vagas e competências encontradas.]
-
-## 6.3 Identificação de Gaps
-
-[Identificar as lacunas entre o conhecimento/perfil atual e o que as empresas exigem.]
-
-## 6.4 Plano de Ação
-
-[Propor ações específicas para eliminar os gaps.]
-
-#Conclusão
-
-Cloud Computing tornou-se uma área estratégica para empresas que
-precisam de sistemas **modernos, escaláveis, disponíveis e seguros**.
-
-O mercado oferece diferentes caminhos profissionais, desde
-infraestrutura e arquitetura até automação e cibersegurança. O domínio
-de plataformas como **AWS, Azure ou Google Cloud**, combinado com
-tecnologias como **Docker, Kubernetes e Terraform**, pode contribuir
-para a evolução profissional.
-
-Nesse cenário, **DevOps e DevSecOps** complementam a formação em Cloud
-ao incorporar automação, integração e segurança aos ambientes modernos
-de tecnologia.
-
+Rúben Tavares Nascimento --- LinkedIn:
+https://www.linkedin.com/in/r%C3%BAben-tavares-b5b371260/
