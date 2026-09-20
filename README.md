@@ -371,9 +371,123 @@ Cursos de interesse:
 [FEEDBACK]
 
 
-# 3. Análise Individual — NOME DO INTEGRANTE 2
+# 3. Análise Individual — Julio Cesar
 
-[REPETIR A MESMA ESTRUTURA]
+## 2.1 GitHub
+
+ Identificação do Perfil
+
+Usuário: *Juliocesarmarq*
+
+Biografia: Tenho 19 anos e curso Análise e Desenvolvimento de Sistemas.
+
+O perfil ainda não possui README de apresentação.
+
+Repositórios Públicos
+
+Possuo atualmente *13 repositórios públicos*.
+
+Repositórios fixados:
+
+* alura
+* alura-cssssss
+* arula-livros-parte1
+* a2git
+* meu-repositório
+* xmenflix
+
+Os projetos publicados representam conhecimentos adquiridos durante meus estudos de programação. Atualmente, os repositórios precisam de melhorias na organização, nomes mais claros e criação de arquivos README para explicar os objetivos e tecnologias utilizadas.
+
+Evolução e Utilização
+
+Atualmente possuo *18 seguidores* e sigo *19 usuários*.
+
+O GitHub ainda não é utilizado com frequência para trabalhos da faculdade, porém pretendo utilizá-lo para publicar projetos acadêmicos e pessoais. Meu objetivo é aumentar minha participação na plataforma, realizando mais commits e compartilhando minha evolução técnica.
+
+ Pontos de Melhoria
+
+* Criar README do perfil e dos projetos;
+* Melhorar a organização dos repositórios;
+* Utilizar nomes mais profissionais;
+* Publicar projetos desenvolvidos na faculdade;
+* Utilizar o GitHub com maior frequência.
+
+## 2.2 LinkedIn
+
+Cargo Alvo e Stack
+
+Meu objetivo profissional é atuar como *Pentester (Testador de Segurança)* na área de *Cibersegurança*.
+
+Atualmente possuo conhecimentos em:
+
+* HTML;
+* GitHub;
+* Python básico;
+* C++ em aprendizado.
+
+Meu nível de experiência atual é *Jovem Aprendiz*.
+
+ Headline Profissional
+
+Headline atual:
+
+"Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por programação e desenvolvimento de software | Em constante aprendizado."
+
+A headline apresenta minha formação e interesse pela área de tecnologia. Futuramente, pretendo adicionar palavras-chave mais relacionadas à Cibersegurança para melhorar o alinhamento com meu objetivo profissional.
+
+ Crescimento da Rede
+
+Atualmente possuo:
+
+* 31 conexões;
+* 31 seguidores.
+
+Minha rede ainda está em crescimento. Pretendo aumentar minhas conexões com profissionais de tecnologia, recrutadores e pessoas da área de Cibersegurança.
+
+ Atividade e Engajamento
+
+Atualmente não realizo publicações, mas interajo com algumas publicações relacionadas à tecnologia.
+
+Como melhoria, pretendo compartilhar projetos, estudos e aprendizados para fortalecer minha presença profissional.
+
+ Outras Redes e Planejamento
+
+## 2.5 Plano de Carreira
+
+ Curto prazo (6 a 12 meses)
+
+Ampliar meus conhecimentos em programação, estudar Cibersegurança, redes e sistemas operacionais. Também busco conquistar uma oportunidade de estágio ou aprendiz na área de Tecnologia da Informação.
+
+Médio prazo (1 a 3 anos)
+
+Buscar efetivação na área de tecnologia com foco em Cibersegurança, iniciar uma pós-graduação em Segurança da Informação/Cibersegurança e desenvolver projetos práticos. Também pretendo melhorar meu inglês e buscar certificações.
+
+ Longo prazo (3 a 5 anos ou mais)
+
+Atuar profissionalmente na área de Cibersegurança, evoluindo como especialista em segurança, realizando testes de segurança, análise de vulnerabilidades e continuando meus estudos.
+
+## 2.6 PDI — Plano de Desenvolvimento Individual
+
+Atualmente curso Análise e Desenvolvimento de Sistemas e realizo cursos complementares de tecnologia pela Fundação Bradesco e outras plataformas. Também acompanho o mercado de trabalho para entender as tecnologias e habilidades exigidas.
+
+Para minha evolução profissional, pretendo estudar:
+
+* Java;
+* Linux;
+* Python;
+* C++;
+* Redes de computadores;
+* Fundamentos de Cibersegurança.
+
+Cursos de interesse:
+
+* Fundamentos de Cibersegurança;
+* Linux e Redes de Computadores;
+* Ethical Hacking e Testes de Invasão.
+
+Além das habilidades técnicas, pretendo melhorar inglês, comunicação e disciplina nos estudos.
+
+Meu progresso será acompanhado mensalmente através da evolução nos estudos, conclusão de cursos, criação de projetos, melhoria no inglês e desenvolvimento das minhas habilidades profissionais.
 
 
 # 4. Análise Individual — NOME DO INTEGRANTE 3
