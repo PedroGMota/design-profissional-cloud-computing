@@ -1,406 +1,695 @@
-☁️ Cloud Computing & DevSecOps
+# Cloud Computing & DevSecOps
 
-Mercado e Desenvolvimento Profissional
+## Mercado e Desenvolvimento Profissional
 
-Integrantes
+### Integrantes
 
-Alessandro Tavares Brandão
+- **Alessandro Tavares Brandão**
+- **Júlio Cesar Marques**
+- **Pedro Gonçalves da Mota**
+- **Rúben Tavares Nascimento**
 
-Júlio Cesar Marques
+> **Área:** Cloud Computing  
+> **Objetivo profissional:** DevSecOps
 
-Pedro Gonçalves da Mota
+---
 
-Rúben Tavares Nascimento
+## 1. Introdução
 
-Área: Cloud Computing
-Objetivo profissional: DevSecOps
+Cloud Computing é uma área da tecnologia responsável por disponibilizar recursos
+computacionais pela internet, como servidores, armazenamento, bancos de dados,
+redes e aplicações.
 
-1. Introdução
+Em vez de depender somente de infraestrutura física local, empresas podem utilizar
+plataformas como AWS, Microsoft Azure e Google Cloud Platform (GCP) para criar
+ambientes mais escaláveis, flexíveis e automatizados.
 
-Cloud Computing é uma área da tecnologia responsável por
-disponibilizar recursos computacionais pela internet, como servidores,
-armazenamento, bancos de dados, redes e aplicações. Em vez de depender
-somente de infraestrutura física local, empresas podem utilizar
-plataformas como AWS, Microsoft Azure e Google Cloud Platform (GCP)
-para criar ambientes mais escaláveis, flexíveis e automatizados.
+A área está presente em empresas de diferentes setores e envolve atividades como:
 
-A área está presente em empresas de diferentes setores e envolve
-atividades como implantação de aplicações, gerenciamento de
-infraestrutura, automação, monitoramento, controle de acessos e
-segurança. Entre as tecnologias frequentemente relacionadas ao
-trabalho em Cloud estão Linux, Docker, Kubernetes, Terraform, CI/CD e
-ferramentas de observabilidade.
+- Implantação de aplicações;
+- Gerenciamento de infraestrutura;
+- Automação de processos;
+- Monitoramento de ambientes;
+- Controle de acessos;
+- Segurança;
+- Gerenciamento de redes e serviços.
 
-Dentro desse cenário está o DevSecOps, abordagem que integra
-Desenvolvimento, Segurança e Operações. Seu objetivo é incorporar
-segurança desde as primeiras etapas do desenvolvimento até a implantação
-e manutenção da aplicação, utilizando automação para testes, análise de
-vulnerabilidades, controle de infraestrutura e proteção de ambientes.
+Entre as tecnologias frequentemente relacionadas ao trabalho em Cloud estão:
 
-O grupo escolheu DevSecOps como direcionamento profissional por
-reunir conhecimentos de Cloud Computing, desenvolvimento,
-infraestrutura, automação e cibersegurança, permitindo atuar em
-diferentes etapas do ciclo de vida de sistemas modernos.
+- Linux;
+- Docker;
+- Kubernetes;
+- Terraform;
+- CI/CD;
+- Ferramentas de observabilidade.
 
-2. Mercado
+### A área de DevSecOps
 
-Em setembro de 2026, o LinkedIn apresentava 392 vagas relacionadas a
-DevSecOps no Brasil, incluindo diferentes níveis de experiência. As
-funções mais relacionadas são DevSecOps Engineer, DevOps Engineer,
-Cloud Engineer, Cloud Security Engineer e SRE.
+DevSecOps une **Desenvolvimento, Segurança e Operações** para que a segurança
+faça parte do projeto desde o começo.
 
-2.1 Salários de DevSecOps por país
+A ideia é evitar que a segurança seja tratada somente como uma etapa final.
+Em DevSecOps, ela acompanha todo o ciclo de desenvolvimento, desde a criação
+do código até a implantação e manutenção da aplicação.
 
-Os valores abaixo consideram somente funções relacionadas diretamente
-a DevSecOps. A nomenclatura e a divisão por senioridade variam entre
-países e empresas.
+O profissional da área pode trabalhar com:
 
-🇧🇷 Brasil
+- Ambientes Cloud;
+- Pipelines de CI/CD;
+- Automação;
+- Docker e Kubernetes;
+- Infrastructure as Code (IaC);
+- Controle de identidades e acessos;
+- Gerenciamento de secrets;
+- Análise de vulnerabilidades;
+- Monitoramento;
+- Logs e métricas;
+- Segurança de aplicações e infraestrutura.
 
-Nível                                Referência
+Uma ideia importante dentro de DevSecOps é o **Shift Left**.
 
-DevSecOps Júnior        ~R$ 7 mil/mês
-DevSecOps Pleno         ~R$ 9 mil/mês
-DevSecOps Engineer     ~R$ 11 mil/mês
+O conceito busca levar testes e verificações de segurança para etapas mais
+iniciais do desenvolvimento. Dessa forma, problemas podem ser encontrados
+antes de chegarem ao ambiente de produção.
 
-Júnior: auxilia em pipelines, Cloud, automação e controles de
-segurança.
+Além da parte técnica, DevSecOps exige colaboração entre diferentes áreas.
 
-Pleno: possui maior autonomia em CI/CD, infraestrutura e
-segurança.
+Desenvolvimento, Segurança e Operações trabalham em conjunto para criar
+aplicações que sejam, ao mesmo tempo, rápidas de entregar, estáveis e seguras.
 
-Engineer: integra desenvolvimento, operações, Cloud e segurança
-de forma mais ampla.
+O grupo escolheu DevSecOps como direcionamento profissional por reunir
+conhecimentos de Cloud Computing, desenvolvimento, infraestrutura,
+automação e cibersegurança.
 
-🇺🇸 Estados Unidos
+---
 
-DevSecOps Engineer: mediana de remuneração total próxima de
-US$ 186 mil/ano, com variação conforme experiência e empresa.
+## 2. Mercado
 
-Função: automatizar infraestrutura e pipelines, integrar
-controles de segurança e trabalhar com ambientes Cloud.
+Em setembro de 2026, o LinkedIn apresentava **392 vagas relacionadas a
+DevSecOps no Brasil**, incluindo diferentes níveis de experiência.
 
-🇨🇦 Canadá
+Entre as funções relacionadas à área estão:
 
-DevSecOps Engineer: média próxima de CA$ 112,7 mil/ano.
+- DevSecOps Engineer;
+- DevOps Engineer;
+- Cloud Engineer;
+- Cloud Security Engineer;
+- Site Reliability Engineer (SRE).
 
-Função: trabalhar com Cloud, CI/CD, containers, automação e
-segurança durante o ciclo de desenvolvimento.
+O mercado demonstra a necessidade de profissionais que consigam trabalhar
+com infraestrutura, desenvolvimento, automação e segurança de maneira
+integrada.
 
-🇬🇧 Reino Unido
+---
 
-DevSecOps Engineer: média próxima de £ 62,5 mil/ano.
+### 2.1 Salários de DevSecOps por país
 
-Função: integrar práticas de segurança aos processos DevOps,
-automatizar deploys e proteger infraestrutura e aplicações.
+Os valores abaixo consideram funções diretamente relacionadas a DevSecOps.
 
-🇩🇪 Alemanha
+A nomenclatura dos cargos e a divisão por senioridade podem variar de acordo
+com o país, empresa, experiência e responsabilidades do profissional.
 
-DevSecOps Engineer: referências públicas observadas entre
-aproximadamente € 42 mil e € 129 mil/ano, com forte variação por
-experiência e cidade.
+#### Brasil
 
-Função: atuar com infraestrutura Cloud, automação, containers,
-segurança e observabilidade.
+**Cargo — Salário**
 
-🇵🇹 Portugal
+- **Júnior:** ~ R$ 7 mil/mês
+- **Pleno:** ~ R$ 9 mil/mês
+- **Engineer:** ~ R$ 11 mil/mês
 
-DevSecOps Engineer: mediana de remuneração total próxima de €
-41 mil/ano.
+#### DevSecOps Júnior
 
-Função: apoiar automação, CI/CD, infraestrutura, Cloud e
-implementação de controles de segurança.
+**Principais funções:**
 
-Os valores são referências de mercado consultadas em setembro de 2026.
-Custo de vida, impostos, benefícios, cidade, experiência e regime de
-contratação devem ser considerados ao comparar países. Quando não
-havia dados públicos suficientemente consistentes por
-Júnior/Pleno/Sênior, foi mantida apenas a referência de DevSecOps
-Engineer, evitando estimativas sem base.
+- Auxiliar na manutenção de pipelines de CI/CD;
+- Trabalhar com Cloud, Git e containers;
+- Executar verificações básicas de vulnerabilidades;
+- Acompanhar logs e alertas;
+- Auxiliar no controle de acessos;
+- Documentar processos e configurações.
 
-3. Vagas e Competências
+#### DevSecOps Pleno
 
-As vagas analisadas --- incluindo oportunidades da xTracky, Coupled
-Tecnologia e SHSquads --- mostram que DevSecOps exige uma combinação
+**Principais funções:**
+
+- Criar e manter pipelines de CI/CD;
+- Automatizar infraestrutura com Terraform;
+- Trabalhar com Docker e Kubernetes;
+- Atuar com IAM e secrets;
+- Analisar vulnerabilidades;
+- Participar da observabilidade dos ambientes;
+- Investigar falhas e problemas de infraestrutura.
+
+#### DevSecOps Engineer
+
+**Principais funções:**
+
+- Integrar Desenvolvimento, Operações e Segurança;
+- Definir padrões de pipelines seguros;
+- Trabalhar com Cloud e Infrastructure as Code;
+- Administrar ambientes Kubernetes;
+- Gerenciar identidades e acessos;
+- Gerenciar vulnerabilidades;
+- Implementar controles de segurança;
+- Trabalhar com observabilidade;
+- Apoiar respostas a incidentes;
+- Colaborar com diferentes equipes durante o desenvolvimento.
+
+---
+
+#### Estados Unidos
+
+**DevSecOps Engineer:** mediana de remuneração total próxima de
+**US$ 186 mil/ano**.
+
+**Principais funções:**
+
+- Automatizar pipelines de CI/CD;
+- Automatizar processos de entrega;
+- Configurar ambientes Cloud;
+- Proteger infraestrutura;
+- Aplicar Infrastructure as Code;
+- Realizar análise de vulnerabilidades;
+- Gerenciar IAM;
+- Proteger credenciais e secrets;
+- Monitorar logs e métricas;
+- Auxiliar na identificação de incidentes.
+
+---
+
+#### Canadá
+
+**DevSecOps Engineer:** média próxima de **CA$ 112,7 mil/ano**.
+
+**Principais funções:**
+
+- Criar e manter pipelines de CI/CD;
+- Trabalhar com Docker e Kubernetes;
+- Administrar ambientes Cloud;
+- Automatizar infraestrutura utilizando Terraform;
+- Gerenciar identidades e acessos;
+- Proteger secrets;
+- Analisar vulnerabilidades no código;
+- Analisar dependências;
+- Monitorar aplicações;
+- Monitorar serviços e infraestrutura.
+
+---
+
+#### Reino Unido
+
+**DevSecOps Engineer:** média próxima de **£ 62,5 mil/ano**.
+
+**Principais funções:**
+
+- Integrar segurança aos processos DevOps;
+- Automatizar deploys;
+- Criar e manter pipelines de CI/CD;
+- Administrar ambientes Cloud;
+- Trabalhar com Kubernetes;
+- Aplicar controles de acesso;
+- Proteger secrets;
+- Analisar vulnerabilidades;
+- Analisar dependências;
+- Acompanhar logs e métricas;
+- Trabalhar com alertas e incidentes.
+
+---
+
+#### Alemanha
+
+**DevSecOps Engineer:** referências públicas entre aproximadamente
+**€ 42 mil e € 129 mil/ano**.
+
+Os valores apresentam forte variação de acordo com experiência, empresa
+e cidade.
+
+**Principais funções:**
+
+- Automatizar infraestrutura;
+- Proteger aplicações e ambientes;
+- Trabalhar com Cloud;
+- Trabalhar com Kubernetes;
+- Implementar CI/CD;
+- Utilizar Infrastructure as Code;
+- Gerenciar identidades e permissões;
+- Proteger secrets;
+- Executar análises de vulnerabilidades;
+- Aplicar políticas de segurança;
+- Monitorar logs e métricas;
+- Acompanhar a confiabilidade dos ambientes.
+
+---
+
+#### Portugal
+
+**DevSecOps Engineer:** mediana de remuneração total próxima de
+**€ 41 mil/ano**.
+
+**Principais funções:**
+
+- Integrar Desenvolvimento, Operações e Segurança;
+- Configurar pipelines de CI/CD;
+- Trabalhar com ambientes Cloud;
+- Utilizar Docker;
+- Administrar Kubernetes;
+- Automatizar infraestrutura com Terraform;
+- Gerenciar acessos e permissões;
+- Proteger credenciais;
+- Executar verificações de segurança;
+- Analisar vulnerabilidades;
+- Monitorar aplicações e infraestrutura.
+
+> **Observação:** os salários apresentados são referências de mercado
+> consultadas em setembro de 2026. Custo de vida, impostos, benefícios,
+> experiência, cidade e regime de contratação devem ser considerados
+> ao comparar diferentes países.
+
+---
+
+## 3. Vagas e Competências
+
+As vagas analisadas, incluindo oportunidades da **xTracky,
+Coupled Tecnologia e SHSquads**, mostram que DevSecOps exige uma combinação
 de conhecimentos técnicos e habilidades comportamentais.
 
-Hard Skills
-
-Cloud: AWS, Microsoft Azure e Google Cloud Platform (GCP);
-
-Sistemas e redes: Linux, TCP/IP, DNS e HTTP;
-
-Containers: Docker e Kubernetes;
-
-Infrastructure as Code: Terraform;
-
-CI/CD: GitHub Actions, GitLab CI, Jenkins e ArgoCD;
-
-Versionamento: Git e GitHub;
-
-Segurança: IAM, SAST, análise de vulnerabilidades e
-gerenciamento de secrets;
-
-Automação: Python e Bash;
-
-Observabilidade: logs, métricas, Grafana, Prometheus e
-CloudWatch;
-
-Práticas DevSecOps: segurança integrada ao pipeline, princípio
-do menor privilégio e GitOps.
-
-Soft Skills
-
-Comunicação: explicar problemas e soluções de forma clara;
-
-Trabalho em equipe: colaborar com desenvolvimento, segurança e
-operações;
-
-Resolução de problemas: investigar falhas e encontrar soluções;
-
-Pensamento analítico: interpretar logs, métricas e riscos;
-
-Organização: administrar tarefas, ambientes e prioridades;
-
-Adaptabilidade: acompanhar mudanças de ferramentas e
-tecnologias;
-
-Aprendizado contínuo: atualizar conhecimentos técnicos
-constantemente;
-
-Responsabilidade: entender o impacto de alterações em produção;
-
-Proatividade: identificar riscos e melhorias antes que se tornem
-problemas.
-
-Perfil buscado: Cloud + Linux + Docker + Terraform + Kubernetes +
-CI/CD + Segurança + Observabilidade + Automação + colaboração.
-
-4. Análises Individuais
-
-4.1 Alessandro Tavares Brandão
-
-GitHub: https://github.com/alessandro16014\
-LinkedIn: https://www.linkedin.com/in/alessandro-tavares-brandao/
-
-O GitHub apresentava 1 repositório público e 22 seguidores. O perfil
-demonstra formação em ADS, mas ainda possui pouco conteúdo técnico
-público voltado a DevSecOps. O próximo passo é publicar projetos com
-Cloud, Docker, Terraform, CI/CD e segurança. Os 22 seguidores ficam
-como referência inicial de evolução.
-
-Plano/PDI: em 6--12 meses, estudar Linux, redes, Cloud, Docker,
-Terraform e CI/CD; em 1--3 anos, buscar experiência em
-Cloud/DevOps/DevSecOps e Kubernetes; em 3--5 anos, consolidar atuação
-como DevSecOps Engineer.
-
-Feedback dos colegas:
-
-Júlio: Minha opinião, o Alessandro tem um objetivo de carreira bem 
-definido e um plano bom para alcançá-lo. Acredito que ele pode 
-fortalecer ainda mais o perfil publicando mais projetos no GitHub e 
-aplicando na prática tecnologias como Cloud, Docker, Terraform.
-
-Pedro: Acho que o Alessandro está seguindo uma direção boa. O que
-mais ajudaria seria mostrar na prática o que está aprendendo, com
-projetos de Cloud e segurança. Isso deixaria o perfil dele mais
-completo.
-
-Rúben: Vejo que o Alessandro sabe onde quer chegar, mas ainda
-precisa fortalecer o portfólio. Seguindo o PDI e praticando Linux,
-Cloud, Terraform e CI/CD, acredito que ele vai se aproximar bastante do
-perfil que as vagas procuram.
-
-4.2 Julio Cesar Marques
-
-GitHub: https://github.com/Juliocesarmarq\
-LinkedIn: https://www.linkedin.com/in/j%C3%BAliocesar1983/
-
-O GitHub apresentava 13 repositórios públicos e 19 seguidores, com
-projetos de estudo e desenvolvimento, incluindo uso de Python e
-HTML. Há prática em programação, mas faltam evidências de Cloud,
-IaC, containers, CI/CD e segurança. Os 19 seguidores ficam como linha
-de base.
-
-Plano/PDI: em 6--12 meses, desenvolver Linux, redes, Cloud, Docker e
-Terraform; em 1--3 anos, aprofundar CI/CD, Kubernetes, IAM e segurança;
-em 3--5 anos, consolidar carreira em DevSecOps.
-
-Feedback dos colegas:
-
-Alessandro: O Julio já tem vários projetos no GitHub, e isso é um
-ponto positivo. Acho que agora ele pode aproveitar essa experiência e
-começar a criar projetos mais voltados para Cloud, Docker e CI/CD.
-
-Pedro: Pra mim, o Julio já tem uma boa base em programação. O
-próximo passo seria levar isso para a área de DevSecOps, principalmente
-praticando containers, infraestrutura como código e segurança.
-
-Rúben: Acho o GitHub do Julio bem ativo e isso ajuda bastante. O
-plano dele também está bem organizado, porque começa pelos fundamentos e
-depois avança para Kubernetes, IAM e segurança.
-
-4.3 Pedro Gonçalves da Mota
-
-GitHub: https://github.com/PedroGMota\
-LinkedIn: https://www.linkedin.com/in/pedro-goncalves-da-mota/
-
-O GitHub apresentava 2 repositórios públicos e 18 seguidores. O
-repositório design-profissional-cloud-computing já evidencia interesse
-em Cloud Computing. O próximo passo é transformar esse estudo em
-projetos práticos com Docker, Terraform, CI/CD, Cloud e segurança.
-
-Plano/PDI: em 6--12 meses, criar projetos práticos em Cloud e
-automação; em 1--3 anos, adquirir experiência em Cloud/DevOps/DevSecOps,
-Kubernetes e IAM; em 3--5 anos, atuar com autonomia como DevSecOps
-Engineer.
-
-Feedback dos colegas:
-
-Alessandro: O Pedro já mostra interesse em Cloud Computing, o que
-combina bastante com o objetivo do grupo. Acho que seria legal
-transformar esse conhecimento em projetos usando Docker, Terraform e
-alguma plataforma Cloud.
-
-Júlio: Minha opinião, Pedro está no caminho certo. O plano dele combina
-com DevSecOps e pode ficar ainda melhor conforme ele for colocando no
-GitHub projetos práticos do que está estudando, para fortalecer seu 
-portifólio.
-
-Rúben: Acho que o direcionamento do Pedro para Cloud é um bom
-começo. Agora seria interessante juntar isso com CI/CD, Terraform e
-segurança para mostrar melhor a evolução dele na área.
-
-4.4 Rúben Tavares Nascimento
-
-GitHub: https://github.com/rb0710\
-LinkedIn: https://www.linkedin.com/in/r%C3%BAben-tavares-b5b371260/
-
-O GitHub demonstra uma base em Back-End, com Java, Spring Boot,
-APIs REST, banco de dados, Git e GitHub, além do direcionamento para
-Cloud/DevSecOps. Entre os projetos estão LifeUP-Back-End,
-suporteSenai e LifeUP-Front-End. A referência anterior registrou 6
-seguidores.
-
-O LinkedIn apresentava 43 seguidores e 43 conexões, além de
-publicações sobre projetos como o LifeUP. Para fortalecer o
-posicionamento DevSecOps sem abandonar Back-End, os projetos podem
-incorporar Docker, GitHub Actions, SAST, Terraform, Cloud, IAM e
-observabilidade.
-
-Plano/PDI: em 6--12 meses, aplicar Docker, Cloud, Terraform, CI/CD e
-segurança aos projetos; em 1--3 anos, aprofundar Kubernetes, IAM e
-observabilidade; em 3--5 anos, consolidar-se como DevSecOps Engineer
-aproveitando a experiência Back-End.
-
-Feedback dos colegas:
-
-Alessandro: O Rúben já tem uma base boa em Back-End, e acho que isso
-pode ajudar bastante em DevSecOps. Ele pode aproveitar os projetos que
-já tem e começar a adicionar Docker, Cloud e automação.
-
-Júlio: Minha opinião, a experiência do Rúben com Java, Spring Boot e APIs
-é um ponto excelente. O próximo passo seria colocar CI/CD e ferramentas
-de segurança nesses projetos para aproximar e aprimorar, mais o perfil 
-de DevSecOps.
-
-Pedro: Acho interessante o Rúben continuar com Back-End e ir
-acrescentando Cloud e segurança, sem abandonar o que já sabe. O plano
-dele está bem direcionado e tem tecnologias importantes como Terraform,
-Kubernetes e observabilidade.
-
-5. 📈 Conclusão e Plano de Ação
-
-A análise mostra que os quatro integrantes possuem interesse em
-tecnologia e estão em diferentes estágios de construção de portfólio. O
-principal gap em relação às vagas analisadas é a falta de evidências
-práticas em Cloud, containers, Infrastructure as Code, CI/CD,
-Kubernetes, segurança e observabilidade.
-
-Plano do grupo
-
-Prazo                   Foco                    Resultado esperado
-
-3--4 meses              Linux, redes, Git e     Laboratórios e projeto
-Cloud                   Cloud
-
-5--6 meses              Docker e Terraform      Aplicação
-containerizada + IaC
-
-8--9 meses              CI/CD, IAM e segurança  Pipeline com controles
-de segurança
-
-A estratégia é transformar os estudos em projetos públicos
-documentados, aproximando os perfis das competências encontradas nas
-vagas.
-
-10. Referências
-
-LinkedIn Jobs. Vagas de DevSecOps no Brasil. Consulta em
-setembro de 2026. https://br.linkedin.com/jobs/devsecops-vagas
-
-LinkedIn Jobs. Vagas de DevOps no Brasil. Consulta em setembro
-de 2026. https://br.linkedin.com/jobs/devops-vagas
-
-LinkedIn Jobs. Vagas relacionadas a Terraform no Brasil.
-Consulta em setembro de 2026.
-https://br.linkedin.com/jobs/terraform-vagas
-
-LinkedIn / xTracky. DevOps Engineer --- AWS + Terraform +
-Kubernetes. Consulta em setembro de 2026.
-https://br.linkedin.com/jobs/view/devops-engineer-aws-%2B-terraform-%2B-kubernetes-at-xtracky-4340501720
-
-LinkedIn / Coupled Tecnologia. DevOps Pleno --- Oracle Cloud,
-AWS, Terraform, Python e ArgoCD. Consulta em setembro de 2026.
-https://br.linkedin.com/jobs/view/devops-pleno-oracle-cloud-aws-terraform-python-argocd-at-coupled-tecnologia-4414006495
-
-LinkedIn / SHSquads. DevOps Sênior --- AWS, Kubernetes e CI/CD.
-Consulta em setembro de 2026.
-https://br.linkedin.com/jobs/view/vaga-devops-s%C3%AAnior-aws-kubernetes-ci-cd-at-shsquads-4352566101
-
-Glassdoor Brasil. Salários de DevSecOps no Brasil. Consulta em
-setembro de 2026.
-https://www.glassdoor.com.br/Sal%C3%A1rios/brazil-devsecops-sal%C3%A1rio-SRCH_IL.0%2C6_IN36_KO7%2C16.htm
-
-Glassdoor Brasil. Salários de Desenvolvedor DevSecOps no Brasil.
-Consulta em setembro de 2026.
-https://www.glassdoor.com.br/Sal%C3%A1rios/desenvolvedor-devsecops-sal%C3%A1rio-SRCH_KO0%2C23.htm
-
-Glassdoor. DevSecOps Engineer --- Estados Unidos. Consulta em
-setembro de 2026.
-https://www.glassdoor.com/Salaries/devsecops-engineer-salary-SRCH_KO0%2C18.htm
-
-Glassdoor. DevSecOps Engineer --- Canadá. Consulta em setembro
-de 2026.
-https://www.glassdoor.ca/Salaries/devsecops-engineer-consultant-salary-SRCH_KO0%2C29.htm
-
-Glassdoor UK. DevSecOps Engineer --- Reino Unido. Consulta em
-setembro de 2026.
-https://www.glassdoor.co.uk/Salaries/london-england-devsecops-engineer-salary-SRCH_IL.0%2C14_KO15%2C33.htm
-
-Glassdoor Deutschland. DevSecOps Engineer --- Alemanha. Consulta
-em setembro de 2026.
-https://www.glassdoor.de/Geh%C3%A4lter/devsecops-engineer-gehalt-SRCH_KO0%2C18.htm
-
-Glassdoor. DevSecOps Engineer --- Portugal. Consulta em setembro
-de 2026.
-https://www.glassdoor.com/Salaries/portugal-devsecops-engineer-salary-SRCH_IL.0%2C8_IN195_KO9%2C27.htm
-
-10.1 Perfis analisados
-
-Alessandro Tavares Brandão --- GitHub:
+### 3.1 Hard Skills — Competências Técnicas
+
+As principais competências técnicas identificadas foram:
+
+- **Cloud:** AWS, Microsoft Azure e Google Cloud Platform (GCP);
+- **Sistemas Operacionais:** Linux;
+- **Redes:** TCP/IP, DNS e HTTP;
+- **Containers:** Docker e Kubernetes;
+- **Infrastructure as Code:** Terraform;
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins e ArgoCD;
+- **Versionamento:** Git e GitHub;
+- **Segurança:** IAM, SAST e análise de vulnerabilidades;
+- **Secrets:** gerenciamento de credenciais e informações sensíveis;
+- **Automação:** Python e Bash;
+- **Observabilidade:** logs e métricas;
+- **Monitoramento:** Grafana, Prometheus e CloudWatch;
+- **GitOps:** gerenciamento de infraestrutura e aplicações através do Git;
+- **Princípio do menor privilégio:** limitar acessos ao necessário;
+- **Segurança em pipelines:** integrar verificações de segurança ao CI/CD.
+
+### 3.2 Soft Skills — Competências Comportamentais
+
+Além do conhecimento técnico, DevSecOps exige habilidades comportamentais
+para facilitar o trabalho entre diferentes equipes.
+
+- **Comunicação:** explicar problemas e soluções de forma clara;
+- **Trabalho em equipe:** colaborar com Desenvolvimento, Segurança e Operações;
+- **Resolução de problemas:** investigar falhas e buscar soluções;
+- **Pensamento analítico:** interpretar logs, métricas e riscos;
+- **Organização:** administrar tarefas e prioridades;
+- **Adaptabilidade:** acompanhar mudanças de ferramentas e tecnologias;
+- **Aprendizado contínuo:** estudar novas tecnologias e práticas;
+- **Responsabilidade:** entender o impacto de alterações em produção;
+- **Proatividade:** identificar problemas e possíveis melhorias;
+- **Colaboração:** compartilhar conhecimento com outros profissionais.
+
+> **Perfil buscado pelo mercado:** Cloud + Linux + Docker + Terraform +
+> Kubernetes + CI/CD + Segurança + Observabilidade + Automação + Colaboração.
+
+---
+
+## 4. Análises Individuais
+
+### 4.1 Alessandro Tavares Brandão
+
+**GitHub:**  
 https://github.com/alessandro16014
-Alessandro Tavares Brandão --- LinkedIn:
+
+**LinkedIn:**  
 https://www.linkedin.com/in/alessandro-tavares-brandao/
 
-Julio Cesar Marques --- GitHub: https://github.com/Juliocesarmarq
-Julio Cesar Marques --- LinkedIn:
+O GitHub apresentava **1 repositório público e 22 seguidores**.
+
+O perfil demonstra formação em ADS, mas ainda possui pouco conteúdo técnico
+público relacionado diretamente a DevSecOps.
+
+Um dos próximos passos pode ser desenvolver projetos simples envolvendo:
+
+- Cloud;
+- Docker;
+- Terraform;
+- CI/CD;
+- Segurança.
+
+Os 22 seguidores podem ser utilizados como referência inicial para acompanhar
+a evolução do perfil.
+
+#### Plano de Desenvolvimento Individual (PDI)
+
+- **Curto prazo — 6 a 12 meses:** estudar Linux, redes, Cloud, Docker,
+  Terraform e CI/CD.
+
+- **Médio prazo — 1 a 3 anos:** buscar experiência em Cloud, DevOps ou
+  DevSecOps e aprofundar conhecimentos em Kubernetes.
+
+- **Longo prazo — 3 a 5 anos:** consolidar a atuação profissional em
+  DevSecOps.
+
+#### Feedback dos colegas
+
+- **Júlio:** Como eu também estou começando agora, acho que o Alessandro já
+  tem uma ideia boa de onde quer chegar. Eu começaria junto com ele pelos
+  conceitos de Cloud, Linux e Docker e depois iria colocando projetos simples
+  no GitHub.
+
+- **Pedro:** Ainda estou conhecendo melhor a área, mas acho que o plano do
+  Alessandro está fácil de entender. Na minha visão, praticar uma ferramenta
+  de cada vez e mostrar o que aprendeu no GitHub já seria um bom começo.
+
+- **Rúben:** Como estamos no início, eu acho que não precisa tentar aprender
+  tudo de uma vez. O Alessandro pode começar pelos fundamentos e fazer
+  pequenos projetos com Cloud e Docker antes de avançar para Terraform e CI/CD.
+
+---
+
+### 4.2 Júlio Cesar Marques
+
+**GitHub:**  
+https://github.com/Juliocesarmarq
+
+**LinkedIn:**  
 https://www.linkedin.com/in/j%C3%BAliocesar1983/
 
-Pedro Gonçalves da Mota --- GitHub: https://github.com/PedroGMota
-Pedro Gonçalves da Mota --- LinkedIn:
+O GitHub apresentava **13 repositórios públicos e 19 seguidores**.
+
+O perfil possui projetos de estudo e desenvolvimento, incluindo trabalhos
+com Python e HTML.
+
+Existe uma base inicial de programação, enquanto tecnologias relacionadas
+a Cloud, IaC, containers, CI/CD e segurança ainda podem ser desenvolvidas
+e demonstradas através de novos projetos.
+
+#### Plano de Desenvolvimento Individual (PDI)
+
+- **Curto prazo — 6 a 12 meses:** desenvolver conhecimentos em Linux,
+  redes, Cloud, Docker e Terraform.
+
+- **Médio prazo — 1 a 3 anos:** aprofundar CI/CD, Kubernetes, IAM
+  e segurança.
+
+- **Longo prazo — 3 a 5 anos:** consolidar a carreira em DevSecOps.
+
+#### Feedback dos colegas
+
+- **Alessandro:** Como eu também estou começando em DevSecOps, achei legal
+  o Júlio já ter projetos no GitHub. Eu tentaria aproveitar esses projetos
+  para aprender Docker e, aos poucos, entender como funciona um pipeline
+  de CI/CD.
+
+- **Pedro:** Na minha visão de iniciante, o Júlio já tem uma base que pode
+  ajudar bastante. O próximo passo poderia ser aprender Cloud e containers
+  com projetos pequenos, sem tentar usar muitas ferramentas ao mesmo tempo.
+
+- **Rúben:** Eu também estou aprendendo a área agora e acho que o caminho
+  dele faz sentido. Começaria reforçando Linux, Git e Docker e depois
+  avançaria para Terraform, CI/CD e segurança.
+
+---
+
+### 4.3 Pedro Gonçalves da Mota
+
+**GitHub:**  
+https://github.com/PedroGMota
+
+**LinkedIn:**  
 https://www.linkedin.com/in/pedro-goncalves-da-mota/
 
-Rúben Tavares Nascimento --- GitHub: https://github.com/rb0710
-Rúben Tavares Nascimento --- LinkedIn:
+O GitHub apresentava **2 repositórios públicos e 18 seguidores**.
+
+O repositório `design-profissional-cloud-computing` já demonstra interesse
+em Cloud Computing.
+
+O próximo passo pode ser transformar os estudos em projetos práticos,
+utilizando tecnologias como:
+
+- Docker;
+- Terraform;
+- CI/CD;
+- Cloud;
+- Segurança.
+
+#### Plano de Desenvolvimento Individual (PDI)
+
+- **Curto prazo — 6 a 12 meses:** criar projetos práticos envolvendo
+  Cloud e automação.
+
+- **Médio prazo — 1 a 3 anos:** adquirir experiência em Cloud, DevOps
+  ou DevSecOps e estudar Kubernetes e IAM.
+
+- **Longo prazo — 3 a 5 anos:** desenvolver autonomia para trabalhar
+  profissionalmente com DevSecOps.
+
+#### Feedback dos colegas
+
+- **Alessandro:** Como estamos começando agora, acho positivo o Pedro já
+  estar estudando Cloud Computing. Eu tentaria transformar esse estudo em
+  algum projeto simples para entender melhor como as ferramentas funcionam
+  na prática.
+
+- **Júlio:** Eu ainda estou conhecendo DevSecOps, mas acho que o Pedro está
+  indo por um caminho bom. Para começar, eu focaria em Cloud e Docker e só
+  depois adicionaria Terraform, CI/CD e segurança.
+
+- **Rúben:** Na minha visão de iniciante, o interesse dele em Cloud já ajuda
+  bastante. Acho que pequenos projetos documentados no GitHub podem mostrar
+  a evolução dele enquanto aprende as outras ferramentas.
+
+---
+
+### 4.4 Rúben Tavares Nascimento
+
+**GitHub:**  
+https://github.com/rb0710
+
+**LinkedIn:**  
 https://www.linkedin.com/in/r%C3%BAben-tavares-b5b371260/
+
+O GitHub demonstra uma base em Back-End, envolvendo:
+
+- Java;
+- Spring Boot;
+- APIs REST;
+- Banco de dados;
+- Git;
+- GitHub.
+
+Entre os projetos estão:
+
+- `LifeUP-Back-End`;
+- `suporteSenai`;
+- `LifeUP-Front-End`.
+
+A referência anterior registrou **6 seguidores no GitHub**.
+
+O LinkedIn apresentava **43 seguidores e 43 conexões**, além de publicações
+sobre projetos como o LifeUP.
+
+Para desenvolver o perfil em DevSecOps sem abandonar Back-End, os projetos
+podem começar a incorporar:
+
+- Docker;
+- GitHub Actions;
+- SAST;
+- Terraform;
+- Cloud;
+- IAM;
+- Observabilidade.
+
+#### Plano de Desenvolvimento Individual (PDI)
+
+- **Curto prazo — 6 a 12 meses:** aplicar Docker, Cloud, Terraform,
+  CI/CD e conceitos de segurança aos projetos.
+
+- **Médio prazo — 1 a 3 anos:** aprofundar Kubernetes, IAM e
+  observabilidade.
+
+- **Longo prazo — 3 a 5 anos:** consolidar a atuação em DevSecOps,
+  aproveitando também os conhecimentos adquiridos em Back-End.
+
+#### Feedback dos colegas
+
+- **Alessandro:** Como eu também estou começando em DevSecOps, acho que a
+  base de Back-End do Rúben pode ajudar. Eu tentaria primeiro colocar Docker
+  em algum projeto que ele já tem e entender como essa aplicação poderia
+  rodar na Cloud.
+
+- **Júlio:** Eu ainda estou aprendendo sobre a área, mas vejo que Java e
+  Spring Boot podem ser um bom ponto de partida. Depois, ele pode experimentar
+  um pipeline simples de CI/CD e começar a estudar segurança aos poucos.
+
+- **Pedro:** Na minha visão de quem está começando agora, acho melhor ele
+  continuar aproveitando o que já sabe de Back-End e ir adicionando DevSecOps
+  aos poucos. Assim fica mais fácil entender Docker, Cloud, Terraform e
+  monitoramento na prática.
+
+---
+
+## 5. Conclusão e Plano de Ação
+
+A análise mostra que os quatro integrantes possuem interesse em tecnologia
+e estão em diferentes estágios de construção de seus portfólios.
+
+Ao comparar os perfis com as vagas analisadas, os principais conhecimentos
+que ainda precisam ser desenvolvidos e demonstrados na prática são:
+
+- Cloud;
+- Containers;
+- Infrastructure as Code;
+- CI/CD;
+- Kubernetes;
+- Segurança;
+- IAM;
+- Observabilidade.
+
+O objetivo não é aprender todas essas tecnologias ao mesmo tempo.
+
+A proposta é construir os conhecimentos gradualmente e transformar o
+aprendizado em projetos públicos que possam demonstrar a evolução de cada
+integrante.
+
+### Plano do grupo
+
+- **3 a 4 meses — Fundamentos**
+  - Linux;
+  - Redes;
+  - Git;
+  - Cloud.
+  
+  **Resultado esperado:** laboratórios e um projeto simples em Cloud.
+
+- **5 a 6 meses — Automação e infraestrutura**
+  - Docker;
+  - Terraform.
+  
+  **Resultado esperado:** aplicação containerizada e infraestrutura
+  como código.
+
+- **8 a 9 meses — Segurança e entrega**
+  - CI/CD;
+  - IAM;
+  - Segurança.
+  
+  **Resultado esperado:** pipeline com controles básicos de segurança.
+
+- **Até 12 meses — Consolidação**
+  - Kubernetes;
+  - Observabilidade;
+  - Integração das tecnologias estudadas.
+  
+  **Resultado esperado:** projeto DevSecOps completo e documentado.
+
+### Ações individuais
+
+**Alessandro**
+
+- Aumentar gradualmente o número de projetos públicos;
+- Criar um primeiro projeto envolvendo Cloud e Docker;
+- Documentar o processo de aprendizado no GitHub.
+
+**Júlio**
+
+- Aproveitar os projetos de programação já existentes;
+- Aplicar Docker em um projeto;
+- Criar posteriormente um pipeline simples de CI/CD.
+
+**Pedro**
+
+- Transformar os estudos de Cloud Computing em projetos práticos;
+- Criar laboratórios envolvendo Docker e Cloud;
+- Avançar posteriormente para Terraform e CI/CD.
+
+**Rúben**
+
+- Aproveitar os projetos Back-End existentes;
+- Containerizar uma aplicação com Docker;
+- Adicionar CI/CD;
+- Implementar verificações de segurança;
+- Evoluir posteriormente para Cloud, Terraform e Kubernetes.
+
+O objetivo comum é que cada integrante desenvolva pelo menos **um projeto
+público relacionado a DevSecOps**, com documentação suficiente para demonstrar
+o que foi aprendido.
+
+---
+
+## 6. Referências
+
+- **LinkedIn Jobs.** Vagas de DevSecOps no Brasil. Consulta em setembro
+  de 2026.  
+  https://br.linkedin.com/jobs/devsecops-vagas
+
+- **LinkedIn Jobs.** Vagas de DevOps no Brasil. Consulta em setembro
+  de 2026.  
+  https://br.linkedin.com/jobs/devops-vagas
+
+- **LinkedIn Jobs.** Vagas relacionadas a Terraform no Brasil. Consulta
+  em setembro de 2026.  
+  https://br.linkedin.com/jobs/terraform-vagas
+
+- **LinkedIn / xTracky.** DevOps Engineer — AWS + Terraform + Kubernetes.
+  Consulta em setembro de 2026.  
+  https://br.linkedin.com/jobs/view/devops-engineer-aws-%2B-terraform-%2B-kubernetes-at-xtracky-4340501720
+
+- **LinkedIn / Coupled Tecnologia.** DevOps Pleno — Oracle Cloud, AWS,
+  Terraform, Python e ArgoCD. Consulta em setembro de 2026.  
+  https://br.linkedin.com/jobs/view/devops-pleno-oracle-cloud-aws-terraform-python-argocd-at-coupled-tecnologia-4414006495
+
+- **LinkedIn / SHSquads.** DevOps Sênior — AWS, Kubernetes e CI/CD.
+  Consulta em setembro de 2026.  
+  https://br.linkedin.com/jobs/view/vaga-devops-s%C3%AAnior-aws-kubernetes-ci-cd-at-shsquads-4352566101
+
+- **Glassdoor Brasil.** Salários de DevSecOps no Brasil. Consulta em
+  setembro de 2026.  
+  https://www.glassdoor.com.br/Sal%C3%A1rios/brazil-devsecops-sal%C3%A1rio-SRCH_IL.0%2C6_IN36_KO7%2C16.htm
+
+- **Glassdoor Brasil.** Salários de Desenvolvedor DevSecOps no Brasil.
+  Consulta em setembro de 2026.  
+  https://www.glassdoor.com.br/Sal%C3%A1rios/desenvolvedor-devsecops-sal%C3%A1rio-SRCH_KO0%2C23.htm
+
+- **Glassdoor.** DevSecOps Engineer — Estados Unidos. Consulta em
+  setembro de 2026.  
+  https://www.glassdoor.com/Salaries/devsecops-engineer-salary-SRCH_KO0%2C18.htm
+
+- **Glassdoor.** DevSecOps Engineer — Canadá. Consulta em setembro
+  de 2026.  
+  https://www.glassdoor.ca/Salaries/devsecops-engineer-consultant-salary-SRCH_KO0%2C29.htm
+
+- **Glassdoor UK.** DevSecOps Engineer — Reino Unido. Consulta em
+  setembro de 2026.  
+  https://www.glassdoor.co.uk/Salaries/london-england-devsecops-engineer-salary-SRCH_IL.0%2C14_KO15%2C33.htm
+
+- **Glassdoor Deutschland.** DevSecOps Engineer — Alemanha. Consulta
+  em setembro de 2026.  
+  https://www.glassdoor.de/Geh%C3%A4lter/devsecops-engineer-gehalt-SRCH_KO0%2C18.htm
+
+- **Glassdoor.** DevSecOps Engineer — Portugal. Consulta em setembro
+  de 2026.  
+  https://www.glassdoor.com/Salaries/portugal-devsecops-engineer-salary-SRCH_IL.0%2C8_IN195_KO9%2C27.htm
+
+### 6.1 Perfis analisados
+
+**Alessandro Tavares Brandão**
+
+- GitHub: https://github.com/alessandro16014
+- LinkedIn: https://www.linkedin.com/in/alessandro-tavares-brandao/
+
+**Júlio Cesar Marques**
+
+- GitHub: https://github.com/Juliocesarmarq
+- LinkedIn: https://www.linkedin.com/in/j%C3%BAliocesar1983/
+
+**Pedro Gonçalves da Mota**
+
+- GitHub: https://github.com/PedroGMota
+- LinkedIn: https://www.linkedin.com/in/pedro-goncalves-da-mota/
+
+**Rúben Tavares Nascimento**
+
+- GitHub: https://github.com/rb0710
+- LinkedIn: https://www.linkedin.com/in/r%C3%BAben-tavares-b5b371260/
