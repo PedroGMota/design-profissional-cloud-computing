@@ -299,7 +299,7 @@ Alessandro: O Rúben já tem uma base boa em Back-End, e acho que isso
 pode ajudar bastante em DevSecOps. Ele pode aproveitar os projetos que
 já tem e começar a adicionar Docker, Cloud e automação.
 
-Júlio: Pra mim, a experiência do Rúben com Java, Spring Boot e APIs
+Júlio: Minha opinião, a experiência do Rúben com Java, Spring Boot e APIs
 é um ponto excelente. O próximo passo seria colocar CI/CD e ferramentas
 de segurança nesses projetos para aproximar e aprimorar, mais o perfil 
 de DevSecOps.
