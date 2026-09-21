@@ -6,7 +6,7 @@ Integrantes
 
 Alessandro Tavares Brandão
 
-Julio Cesar Marques
+Júlio Cesar Marques
 
 Pedro Gonçalves da Mota
 
@@ -196,10 +196,10 @@ como DevSecOps Engineer.
 
 Feedback dos colegas:
 
-Julio: Pra mim, o Alessandro já tem um objetivo bem definido. Acho
-que o principal agora é colocar mais projetos no GitHub, principalmente
-envolvendo Cloud, Docker e CI/CD. O plano dele faz sentido e mostra um
-bom caminho para chegar em DevSecOps.
+Júlio: Minha opinião, o Alessandro tem um objetivo de carreira bem 
+definido e um plano bom para alcançá-lo. Acredito que ele pode 
+fortalecer ainda mais o perfil publicando mais projetos no GitHub e 
+aplicando na prática tecnologias como Cloud, Docker, Terraform.
 
 Pedro: Acho que o Alessandro está seguindo uma direção boa. O que
 mais ajudaria seria mostrar na prática o que está aprendendo, com
@@ -262,9 +262,10 @@ combina bastante com o objetivo do grupo. Acho que seria legal
 transformar esse conhecimento em projetos usando Docker, Terraform e
 alguma plataforma Cloud.
 
-Julio: Pra mim, o Pedro está no caminho certo. O plano dele combina
+Júlio: Minha opinião, Pedro está no caminho certo. O plano dele combina
 com DevSecOps e pode ficar ainda melhor conforme ele for colocando no
-GitHub projetos práticos do que está estudando.
+GitHub projetos práticos do que está estudando, para fortalecer seu 
+portifólio.
 
 Rúben: Acho que o direcionamento do Pedro para Cloud é um bom
 começo. Agora seria interessante juntar isso com CI/CD, Terraform e
@@ -298,9 +299,10 @@ Alessandro: O Rúben já tem uma base boa em Back-End, e acho que isso
 pode ajudar bastante em DevSecOps. Ele pode aproveitar os projetos que
 já tem e começar a adicionar Docker, Cloud e automação.
 
-Julio: Pra mim, a experiência do Rúben com Java, Spring Boot e APIs
-é um ponto forte. O próximo passo seria colocar CI/CD e ferramentas de
-segurança nesses projetos para aproximar mais o perfil de DevSecOps.
+Júlio: Pra mim, a experiência do Rúben com Java, Spring Boot e APIs
+é um ponto excelente. O próximo passo seria colocar CI/CD e ferramentas
+de segurança nesses projetos para aproximar e aprimorar, mais o perfil 
+de DevSecOps.
 
 Pedro: Acho interessante o Rúben continuar com Back-End e ir
 acrescentando Cloud e segurança, sem abandonar o que já sabe. O plano
